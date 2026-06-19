@@ -18,3 +18,13 @@ normalize_year() function created
 normalize_ticker() function created
 Loader testing completed
 Normalization testing completed
+
+
+Sprint 1 - Day 3
+Completed:
+
+Data validation module created
+Null value detection implemented
+Duplicate row detection implemented
+Validation testing completed
+Dataset quality assessment performed
