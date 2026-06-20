@@ -13,7 +13,8 @@ for file in os.listdir(folder):
         table_name = file.replace(".xlsx","")
 
         df = pd.read_excel(
-            os.path.join(folder,file)
+            os.path.join(folder,file),
+            header=1
         )
 
         df.to_sql(
