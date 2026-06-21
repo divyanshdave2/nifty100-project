@@ -38,3 +38,13 @@ Completed:
 - Loaded all 12 datasets into SQLite
 - Verified table creation
 - Validated successful data ingestion
+
+
+Sprint 1 - Day 5
+Completed:
+
+- Performed data quality audit
+- Checked row counts across all tables
+- Identified null values
+- Checked duplicate records
+- Generated load_audit.csv report
