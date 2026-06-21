@@ -48,3 +48,14 @@ Completed:
 - Identified null values
 - Checked duplicate records
 - Generated load_audit.csv report
+
+
+Sprint 1 - Day 6
+Completed:
+
+- Performed manual data quality review
+- Reviewed 5 random companies
+- Verified row counts across tables
+- Checked database consistency
+- Identified and documented header loading issue
+- Generated DQ review notes
