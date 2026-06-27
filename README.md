@@ -68,3 +68,19 @@ Completed:
 - Summarized unit test results
 - Completed sprint review documentation
 - Prepared project for Sprint 2
+
+
+Sprint 2 - Day 8
+Completed:
+
+Implemented Net Profit Margin (NPM) calculation
+Implemented Operating Profit Margin (OPM) calculation
+Added OPM cross-check validation against existing values
+Implemented Return on Equity (ROE) calculation
+Implemented Return on Capital Employed (ROCE) calculation
+Implemented Return on Assets (ROA) calculation
+Added Financial sector-specific ROCE evaluation logic
+Added anomaly logging for OPM mismatches
+Implemented edge-case handling for zero and invalid denominators
+Created comprehensive unit tests (tests/test_ratios.py)
+Successfully passed all 8/8 unit tests
