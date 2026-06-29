@@ -67,3 +67,75 @@ def calculate_roa(net_profit: float, total_assets: float) -> float | None:
     if total_assets <= 0:
         return None
     return (net_profit / total_assets) * 100
+
+def calculate_debt_to_equity(
+    borrowings: float,
+    equity_capital: float,
+    reserves: float
+) -> float | None:
+    """
+    Calculate Debt-to-Equity Ratio.
+    Returns None if total equity <= 0.
+    Returns 0 for debt-free companies.
+    """
+
+    total_equity = equity_capital + reserves
+
+    if total_equity <= 0:
+        return None
+
+    if borrowings == 0:
+        return 0
+
+    return borrowings / total_equity
+
+def calculate_interest_coverage_ratio(
+    operating_profit: float,
+    other_income: float,
+    interest: float
+) -> dict:
+    """
+    Calculate Interest Coverage Ratio (ICR).
+    """
+
+    if interest <= 0:
+        return {
+            "icr": None,
+            "status": "Debt Free"
+        }
+
+    icr = (operating_profit + other_income) / interest
+
+    if icr < 1.5:
+        return {
+            "icr": icr,
+            "status": "Weak Coverage"
+        }
+
+    return {
+        "icr": icr,
+        "status": "Healthy"
+    }
+
+def calculate_net_debt(
+    borrowings: float,
+    investments: float
+) -> float:
+    """
+    Calculate Net Debt.
+    """
+
+    return borrowings - investments
+
+def calculate_asset_turnover(
+    sales: float,
+    total_assets: float
+) -> float | None:
+    """
+    Calculate Asset Turnover Ratio.
+    """
+
+    if total_assets <= 0:
+        return None
+
+    return sales / total_assets

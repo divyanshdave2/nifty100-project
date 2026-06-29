@@ -84,3 +84,16 @@ Added anomaly logging for OPM mismatches
 Implemented edge-case handling for zero and invalid denominators
 Created comprehensive unit tests (tests/test_ratios.py)
 Successfully passed all 8/8 unit tests
+
+
+Sprint 2 - Day 9
+Completed:
+
+* Implemented Debt-to-Equity (D/E) Ratio
+* Implemented Interest Coverage Ratio (ICR)
+* Implemented Net Debt calculation
+* Implemented Asset Turnover Ratio
+* Added edge-case handling for invalid denominators
+* Added debt-free company handling
+* Created comprehensive unit tests
+* Successfully passed all 18 unit tests

@@ -5,7 +5,11 @@ from src.analytics.ratios import (
     calculate_opm_with_cross_check,
     calculate_roe,
     calculate_roce,
-    calculate_roa
+    calculate_roa,
+    calculate_debt_to_equity,
+    calculate_interest_coverage_ratio,
+    calculate_net_debt,
+    calculate_asset_turnover
 )
 
 # Test 1: Normal Case (Standard Profitable Company)
@@ -59,3 +63,58 @@ def test_standard_roce_exact_calculation():
     result = calculate_roce(30, 50, 50, 50, "IT Services")
     assert result["roce"] == 20.0
     assert result["evaluation_mode"] == "Absolute Threshold"
+
+# Test 9: Debt-Free Company
+def test_debt_to_equity_debt_free():
+    assert calculate_debt_to_equity(0, 100, 50) == 0
+
+
+# Test 10: Normal Debt-to-Equity
+def test_debt_to_equity_normal():
+    assert calculate_debt_to_equity(75, 100, 50) == 0.5
+
+
+# Test 11: Invalid Equity
+def test_debt_to_equity_invalid():
+    assert calculate_debt_to_equity(100, 0, 0) is None
+
+
+# Test 12: Negative Equity
+def test_debt_to_equity_negative():
+    assert calculate_debt_to_equity(100, 50, -100) is None
+
+# Test 13: Interest Coverage Normal
+def test_interest_coverage_normal():
+    result = calculate_interest_coverage_ratio(100, 20, 40)
+
+    assert result["icr"] == 3.0
+    assert result["status"] == "Healthy"
+
+
+# Test 14: Debt Free Company
+def test_interest_coverage_debt_free():
+    result = calculate_interest_coverage_ratio(100, 20, 0)
+
+    assert result["icr"] is None
+    assert result["status"] == "Debt Free"
+
+
+# Test 15: Weak Coverage
+def test_interest_coverage_weak():
+    result = calculate_interest_coverage_ratio(10, 0, 10)
+
+    assert result["icr"] == 1.0
+    assert result["status"] == "Weak Coverage"
+
+# Test 16: Net Debt
+def test_net_debt():
+    assert calculate_net_debt(500, 200) == 300
+
+# Test 17: Asset Turnover Normal
+def test_asset_turnover_normal():
+    assert calculate_asset_turnover(500, 250) == 2.0
+
+
+# Test 18: Asset Turnover Zero Assets
+def test_asset_turnover_zero_assets():
+    assert calculate_asset_turnover(500, 0) is None
