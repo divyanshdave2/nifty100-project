@@ -97,3 +97,13 @@ Completed:
 * Added debt-free company handling
 * Created comprehensive unit tests
 * Successfully passed all 18 unit tests
+
+
+Sprint 2 - Day 10
+Completed:
+
+* Developed a reusable CAGR (Compound Annual Growth Rate) engine in Python.
+* Implemented Revenue CAGR, PAT CAGR, and EPS CAGR calculations for 3-year, 5-year, and 10-year periods.
+* Added robust edge-case handling for zero base values, turnaround scenarios, decline-to-loss cases, negative values, and insufficient historical data.
+* Created comprehensive unit tests covering normal calculations and all edge cases.
+* Successfully passed all CAGR unit tests.
