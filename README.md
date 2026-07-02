@@ -119,3 +119,16 @@ Completed:
 * Added Capital Allocation Pattern classification (Growth, Mature, Distressed, Unclassified).
 * Created comprehensive unit tests covering all cash flow analytics and edge cases.
 * Successfully passed all 19 unit tests.
+
+Sprint 2 - Day 12
+Completed:
+
+* Developed the core financial ratio consolidation pipeline (`src/analytics/financial_ratios.py`).
+* Consolidated over 14+ required financial KPIs spanning margins, returns, leverage, efficiency, and cash flows.
+* Implemented True 5-Year CAGR calculation engines for Revenue, PAT, and EPS utilizing shift-based historical offsets.
+* Engineered a 5-point Composite Quality Scoring ruleset evaluating fundamentals across efficiency, leverage, cash flow quality, coverage, and profitability.
+* Built the Free Cash Flow (FCF) Conversion Rate metric with built-in zero-denominator exception handling.
+* Designed an 8-Pattern Capital Allocation Matrix Classifier using CFO, CFI, and CFF sign permutations.
+* Resolved database indexing issues by implementing standardized text cleaning (`strip()`) and LEFT join strategies.
+* Successfully generated the required downstream analytical asset `output/capital_allocation.csv`.
+* Replaced and updated the centralized SQLite `financial_ratios` table, securing a full target footprint of 1,276 rows.
