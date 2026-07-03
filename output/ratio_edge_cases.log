@@ -1,5 +1,2124 @@
-2026-06-27 09:32:10,852 - WARNING - OPM Mismatch for Anomaly Inc (2026): Calculated=3000.00%, Pre-existing=1000.00%
-2026-06-27 23:19:13,466 - WARNING - OPM Mismatch for Anomaly Inc (2026): Calculated=3000.00%, Pre-existing=1000.00%
-2026-06-29 09:45:56,999 - WARNING - OPM Mismatch for Anomaly Inc (2026): Calculated=30.00%, Pre-existing=10.00%
-2026-06-29 09:49:26,967 - WARNING - OPM Mismatch for Anomaly Inc (2026): Calculated=30.00%, Pre-existing=10.00%
-2026-06-29 09:52:46,265 - WARNING - OPM Mismatch for Anomaly Inc (2026): Calculated=30.00%, Pre-existing=10.00%
+Company: ABB | Year: Dec 2012 | Metric: ROE
+Difference: 12.5% | Category: Formula Difference
+👉 ABB | Dec 2012 | ROE mismatch | Calculated=22.4 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2014 | Metric: ROE
+Difference: 9.8% | Category: Formula Difference
+👉 ABB | Mar 2014 | ROE mismatch | Calculated=25.1 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2015 | Metric: ROE
+Difference: 10.5% | Category: Formula Difference
+👉 ABB | Mar 2015 | ROE mismatch | Calculated=24.4 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2016 | Metric: ROE
+Difference: 13.6% | Category: Formula Difference
+👉 ABB | Mar 2016 | ROE mismatch | Calculated=21.3 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2017 | Metric: ROE
+Difference: 14.9% | Category: Formula Difference
+👉 ABB | Mar 2017 | ROE mismatch | Calculated=20.0 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2018 | Metric: ROE
+Difference: 11.2% | Category: Formula Difference
+👉 ABB | Mar 2018 | ROE mismatch | Calculated=23.7 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2019 | Metric: ROE
+Difference: 12.5% | Category: Formula Difference
+👉 ABB | Mar 2019 | ROE mismatch | Calculated=22.4 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2020 | Metric: ROE
+Difference: 10.5% | Category: Formula Difference
+👉 ABB | Mar 2020 | ROE mismatch | Calculated=24.4 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2021 | Metric: ROE
+Difference: 8.3% | Category: Formula Difference
+👉 ABB | Mar 2021 | ROE mismatch | Calculated=26.6 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2022 | Metric: ROE
+Difference: 6.6% | Category: Formula Difference
+👉 ABB | Mar 2022 | ROE mismatch | Calculated=28.3 | Source=34.9
+----------------------------------------
+Company: ABB | Year: Mar 2023 | Metric: ROE
+Difference: 5.1% | Category: Formula Difference
+👉 ABB | Mar 2023 | ROE mismatch | Calculated=29.8 | Source=34.9
+----------------------------------------
+Company: ADANIENSOL | Year: Mar 2014 | Metric: ROE
+Difference: 8.6% | Category: Formula Difference
+👉 ADANIENSOL | Mar 2014 | ROE mismatch | Calculated=0.0 | Source=8.6
+----------------------------------------
+Company: ADANIENSOL | Year: Mar 2015 | Metric: ROE
+Difference: 9.2% | Category: Formula Difference
+👉 ADANIENSOL | Mar 2015 | ROE mismatch | Calculated=-0.6 | Source=8.6
+----------------------------------------
+Company: ADANIENSOL | Year: Mar 2016 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 ADANIENSOL | Mar 2016 | ROE mismatch | Calculated=13.8 | Source=8.6
+----------------------------------------
+Company: ADANIENSOL | Year: Mar 2017 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 ADANIENSOL | Mar 2017 | ROE mismatch | Calculated=14.1 | Source=8.6
+----------------------------------------
+Company: ADANIENSOL | Year: Mar 2018 | Metric: ROE
+Difference: 10.3% | Category: Formula Difference
+👉 ADANIENSOL | Mar 2018 | ROE mismatch | Calculated=18.9 | Source=8.6
+----------------------------------------
+Company: ADANIENSOL | Year: Mar 2021 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 ADANIENSOL | Mar 2021 | ROE mismatch | Calculated=14.5 | Source=8.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2013 | Metric: ROE
+Difference: 7.9% | Category: Formula Difference
+👉 ADANIENT | Mar 2013 | ROE mismatch | Calculated=5.7 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2016 | Metric: ROE
+Difference: 6.2% | Category: Formula Difference
+👉 ADANIENT | Mar 2016 | ROE mismatch | Calculated=7.5 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2017 | Metric: ROE
+Difference: 7.1% | Category: Formula Difference
+👉 ADANIENT | Mar 2017 | ROE mismatch | Calculated=6.5 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2018 | Metric: ROE
+Difference: 9.7% | Category: Formula Difference
+👉 ADANIENT | Mar 2018 | ROE mismatch | Calculated=3.9 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2019 | Metric: ROE
+Difference: 10.2% | Category: Formula Difference
+👉 ADANIENT | Mar 2019 | ROE mismatch | Calculated=3.4 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2020 | Metric: ROE
+Difference: 7.5% | Category: Formula Difference
+👉 ADANIENT | Mar 2020 | ROE mismatch | Calculated=6.1 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2021 | Metric: ROE
+Difference: 7.5% | Category: Formula Difference
+👉 ADANIENT | Mar 2021 | ROE mismatch | Calculated=6.1 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2022 | Metric: ROE
+Difference: 10.1% | Category: Formula Difference
+👉 ADANIENT | Mar 2022 | ROE mismatch | Calculated=3.5 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2023 | Metric: ROE
+Difference: 6.3% | Category: Formula Difference
+👉 ADANIENT | Mar 2023 | ROE mismatch | Calculated=7.3 | Source=13.6
+----------------------------------------
+Company: ADANIENT | Year: Mar 2024 | Metric: ROE
+Difference: 5.1% | Category: Formula Difference
+👉 ADANIENT | Mar 2024 | ROE mismatch | Calculated=8.5 | Source=13.6
+----------------------------------------
+Company: ADANIGREEN | Year: Mar 2017 | Metric: ROE
+Difference: 18.6% | Category: Formula Difference
+👉 ADANIGREEN | Mar 2017 | ROE mismatch | Calculated=-3.9 | Source=14.7
+----------------------------------------
+Company: ADANIGREEN | Year: Mar 2018 | Metric: ROE
+Difference: 25.0% | Category: Formula Difference
+👉 ADANIGREEN | Mar 2018 | ROE mismatch | Calculated=-10.3 | Source=14.7
+----------------------------------------
+Company: ADANIGREEN | Year: Mar 2019 | Metric: ROE
+Difference: 39.3% | Category: Formula Difference
+👉 ADANIGREEN | Mar 2019 | ROE mismatch | Calculated=-24.6 | Source=14.7
+----------------------------------------
+Company: ADANIGREEN | Year: Mar 2020 | Metric: ROE
+Difference: 17.6% | Category: Formula Difference
+👉 ADANIGREEN | Mar 2020 | ROE mismatch | Calculated=-2.9 | Source=14.7
+----------------------------------------
+Company: ADANIGREEN | Year: Mar 2021 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 ADANIGREEN | Mar 2021 | ROE mismatch | Calculated=8.3 | Source=14.7
+----------------------------------------
+Company: ADANIPORTS | Year: Mar 2013 | Metric: ROE
+Difference: 7.5% | Category: Formula Difference
+👉 ADANIPORTS | Mar 2013 | ROE mismatch | Calculated=25.6 | Source=18.1
+----------------------------------------
+Company: ADANIPORTS | Year: Mar 2013 | Metric: ROE
+Difference: 7.5% | Category: Formula Difference
+👉 ADANIPORTS | Mar 2013 | ROE mismatch | Calculated=25.6 | Source=18.1
+----------------------------------------
+Company: ADANIPORTS | Year: Mar 2022 | Metric: ROE
+Difference: 6.3% | Category: Formula Difference
+👉 ADANIPORTS | Mar 2022 | ROE mismatch | Calculated=11.8 | Source=18.1
+----------------------------------------
+Company: ADANIPORTS | Year: Mar 2022 | Metric: ROE
+Difference: 6.3% | Category: Formula Difference
+👉 ADANIPORTS | Mar 2022 | ROE mismatch | Calculated=11.8 | Source=18.1
+----------------------------------------
+Company: ADANIPORTS | Year: Mar 2023 | Metric: ROE
+Difference: 6.2% | Category: Formula Difference
+👉 ADANIPORTS | Mar 2023 | ROE mismatch | Calculated=11.9 | Source=18.1
+----------------------------------------
+Company: ADANIPORTS | Year: Mar 2023 | Metric: ROE
+Difference: 6.2% | Category: Formula Difference
+👉 ADANIPORTS | Mar 2023 | ROE mismatch | Calculated=11.9 | Source=18.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2013 | Metric: ROE
+Difference: 110.6% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2013 | ROE mismatch | Calculated=-53.5 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2014 | Metric: ROE
+Difference: 61.5% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2014 | ROE mismatch | Calculated=-4.4 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2015 | Metric: ROE
+Difference: 71.4% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2015 | ROE mismatch | Calculated=-14.3 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2016 | Metric: ROE
+Difference: 49.7% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2016 | ROE mismatch | Calculated=7.4 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2017 | Metric: ROE
+Difference: 262.9% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2017 | ROE mismatch | Calculated=-205.8 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2018 | Metric: ROE
+Difference: 293.7% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2018 | ROE mismatch | Calculated=-236.6 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2019 | Metric: ROE
+Difference: 69.9% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2019 | ROE mismatch | Calculated=-12.8 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2020 | Metric: ROE
+Difference: 92.2% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2020 | ROE mismatch | Calculated=-35.1 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2021 | Metric: ROE
+Difference: 47.4% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2021 | ROE mismatch | Calculated=9.7 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2022 | Metric: ROE
+Difference: 30.5% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2022 | ROE mismatch | Calculated=26.6 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2023 | Metric: ROE
+Difference: 21.2% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2023 | ROE mismatch | Calculated=35.9 | Source=57.1
+----------------------------------------
+Company: ADANIPOWER | Year: Mar 2024 | Metric: ROE
+Difference: 8.8% | Category: Formula Difference
+👉 ADANIPOWER | Mar 2024 | ROE mismatch | Calculated=48.3 | Source=57.1
+----------------------------------------
+Company: AMBUJACEM | Year: Dec 2012 | Metric: ROE
+Difference: 5.4% | Category: Formula Difference
+👉 AMBUJACEM | Dec 2012 | ROE mismatch | Calculated=14.7 | Source=9.2
+----------------------------------------
+Company: AMBUJACEM | Year: Dec 2014 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 AMBUJACEM | Dec 2014 | ROE mismatch | Calculated=14.8 | Source=9.2
+----------------------------------------
+Company: AMBUJACEM | Year: Dec 2021 | Metric: ROE
+Difference: 5.4% | Category: Formula Difference
+👉 AMBUJACEM | Dec 2021 | ROE mismatch | Calculated=14.6 | Source=9.2
+----------------------------------------
+Company: APOLLOHOSP | Year: Mar 2016 | Metric: ROE
+Difference: 6.8% | Category: Formula Difference
+👉 APOLLOHOSP | Mar 2016 | ROE mismatch | Calculated=7.1 | Source=13.8
+----------------------------------------
+Company: APOLLOHOSP | Year: Mar 2017 | Metric: ROE
+Difference: 9.9% | Category: Formula Difference
+👉 APOLLOHOSP | Mar 2017 | ROE mismatch | Calculated=4.0 | Source=13.8
+----------------------------------------
+Company: APOLLOHOSP | Year: Mar 2018 | Metric: ROE
+Difference: 12.0% | Category: Formula Difference
+👉 APOLLOHOSP | Mar 2018 | ROE mismatch | Calculated=1.8 | Source=13.8
+----------------------------------------
+Company: APOLLOHOSP | Year: Mar 2019 | Metric: ROE
+Difference: 7.8% | Category: Formula Difference
+👉 APOLLOHOSP | Mar 2019 | ROE mismatch | Calculated=6.0 | Source=13.8
+----------------------------------------
+Company: APOLLOHOSP | Year: Mar 2021 | Metric: ROE
+Difference: 10.8% | Category: Formula Difference
+👉 APOLLOHOSP | Mar 2021 | ROE mismatch | Calculated=3.0 | Source=13.8
+----------------------------------------
+Company: APOLLOHOSP | Year: Mar 2022 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 APOLLOHOSP | Mar 2022 | ROE mismatch | Calculated=19.7 | Source=13.8
+----------------------------------------
+Company: ASIANPAINT | Year: Mar 2018 | Metric: ROE
+Difference: 6.5% | Category: Formula Difference
+👉 ASIANPAINT | Mar 2018 | ROE mismatch | Calculated=24.9 | Source=31.4
+----------------------------------------
+Company: ASIANPAINT | Year: Mar 2019 | Metric: ROE
+Difference: 8.1% | Category: Formula Difference
+👉 ASIANPAINT | Mar 2019 | ROE mismatch | Calculated=23.3 | Source=31.4
+----------------------------------------
+Company: ASIANPAINT | Year: Mar 2021 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 ASIANPAINT | Mar 2021 | ROE mismatch | Calculated=25.0 | Source=31.4
+----------------------------------------
+Company: ASIANPAINT | Year: Mar 2022 | Metric: ROE
+Difference: 9.1% | Category: Formula Difference
+👉 ASIANPAINT | Mar 2022 | ROE mismatch | Calculated=22.3 | Source=31.4
+----------------------------------------
+Company: ASIANPAINT | Year: Mar 2023 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 ASIANPAINT | Mar 2023 | ROE mismatch | Calculated=26.2 | Source=31.4
+----------------------------------------
+Company: ATGL | Year: Mar 2020 | Metric: ROE
+Difference: 9.1% | Category: Formula Difference
+👉 ATGL | Mar 2020 | ROE mismatch | Calculated=29.6 | Source=20.5
+----------------------------------------
+Company: AXISBANK | Year: Mar 2017 | Metric: ROE
+Difference: 11.9% | Category: Formula Difference
+👉 AXISBANK | Mar 2017 | ROE mismatch | Calculated=6.5 | Source=18.4
+----------------------------------------
+Company: AXISBANK | Year: Mar 2018 | Metric: ROE
+Difference: 18.0% | Category: Formula Difference
+👉 AXISBANK | Mar 2018 | ROE mismatch | Calculated=0.4 | Source=18.4
+----------------------------------------
+Company: AXISBANK | Year: Mar 2019 | Metric: ROE
+Difference: 11.5% | Category: Formula Difference
+👉 AXISBANK | Mar 2019 | ROE mismatch | Calculated=6.9 | Source=18.4
+----------------------------------------
+Company: AXISBANK | Year: Mar 2020 | Metric: ROE
+Difference: 16.5% | Category: Formula Difference
+👉 AXISBANK | Mar 2020 | ROE mismatch | Calculated=1.9 | Source=18.4
+----------------------------------------
+Company: AXISBANK | Year: Mar 2021 | Metric: ROE
+Difference: 12.0% | Category: Formula Difference
+👉 AXISBANK | Mar 2021 | ROE mismatch | Calculated=6.4 | Source=18.4
+----------------------------------------
+Company: AXISBANK | Year: Mar 2022 | Metric: ROE
+Difference: 7.4% | Category: Formula Difference
+👉 AXISBANK | Mar 2022 | ROE mismatch | Calculated=11.0 | Source=18.4
+----------------------------------------
+Company: AXISBANK | Year: Mar 2023 | Metric: ROE
+Difference: 11.0% | Category: Formula Difference
+👉 AXISBANK | Mar 2023 | ROE mismatch | Calculated=7.4 | Source=18.4
+----------------------------------------
+Company: BAJAJ-AUTO | Year: Mar 2013 | Metric: ROE
+Difference: 12.3% | Category: Formula Difference
+👉 BAJAJ-AUTO | Mar 2013 | ROE mismatch | Calculated=38.8 | Source=26.5
+----------------------------------------
+Company: BAJAJ-AUTO | Year: Mar 2014 | Metric: ROE
+Difference: 6.7% | Category: Formula Difference
+👉 BAJAJ-AUTO | Mar 2014 | ROE mismatch | Calculated=33.2 | Source=26.5
+----------------------------------------
+Company: BAJAJ-AUTO | Year: Mar 2018 | Metric: ROE
+Difference: 5.8% | Category: Formula Difference
+👉 BAJAJ-AUTO | Mar 2018 | ROE mismatch | Calculated=20.7 | Source=26.5
+----------------------------------------
+Company: BAJAJ-AUTO | Year: Mar 2019 | Metric: ROE
+Difference: 5.3% | Category: Formula Difference
+👉 BAJAJ-AUTO | Mar 2019 | ROE mismatch | Calculated=21.2 | Source=26.5
+----------------------------------------
+Company: BAJAJ-AUTO | Year: Mar 2021 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 BAJAJ-AUTO | Mar 2021 | ROE mismatch | Calculated=17.8 | Source=26.5
+----------------------------------------
+Company: BAJAJ-AUTO | Year: Mar 2022 | Metric: ROE
+Difference: 5.8% | Category: Formula Difference
+👉 BAJAJ-AUTO | Mar 2022 | ROE mismatch | Calculated=20.7 | Source=26.5
+----------------------------------------
+Company: BAJAJ-AUTO | Year: Mar 2023 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 BAJAJ-AUTO | Mar 2023 | ROE mismatch | Calculated=20.6 | Source=26.5
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2013 | Metric: ROE
+Difference: 16.7% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2013 | ROE mismatch | Calculated=28.4 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2014 | Metric: ROE
+Difference: 11.8% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2014 | ROE mismatch | Calculated=23.5 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2015 | Metric: ROE
+Difference: 10.0% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2015 | ROE mismatch | Calculated=21.7 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2016 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2016 | ROE mismatch | Calculated=20.4 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2017 | Metric: ROE
+Difference: 9.6% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2017 | ROE mismatch | Calculated=21.4 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2018 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2018 | ROE mismatch | Calculated=20.4 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2019 | Metric: ROE
+Difference: 10.9% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2019 | ROE mismatch | Calculated=22.6 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2020 | Metric: ROE
+Difference: 7.4% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2020 | ROE mismatch | Calculated=19.1 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2021 | Metric: ROE
+Difference: 8.8% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2021 | ROE mismatch | Calculated=20.6 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2022 | Metric: ROE
+Difference: 8.9% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2022 | ROE mismatch | Calculated=20.7 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2023 | Metric: ROE
+Difference: 14.6% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2023 | ROE mismatch | Calculated=26.3 | Source=11.7
+----------------------------------------
+Company: BAJAJFINSV | Year: Mar 2024 | Metric: ROE
+Difference: 14.1% | Category: Formula Difference
+👉 BAJAJFINSV | Mar 2024 | ROE mismatch | Calculated=25.9 | Source=11.7
+----------------------------------------
+Company: BAJAJHLDNG | Year: Mar 2022 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 BAJAJHLDNG | Mar 2022 | ROE mismatch | Calculated=9.6 | Source=14.8
+----------------------------------------
+Company: BAJFINANCE | Year: Mar 2018 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 BAJFINANCE | Mar 2018 | ROE mismatch | Calculated=15.7 | Source=22.1
+----------------------------------------
+Company: BAJFINANCE | Year: Mar 2020 | Metric: ROE
+Difference: 5.8% | Category: Formula Difference
+👉 BAJFINANCE | Mar 2020 | ROE mismatch | Calculated=16.3 | Source=22.1
+----------------------------------------
+Company: BAJFINANCE | Year: Mar 2021 | Metric: ROE
+Difference: 10.1% | Category: Formula Difference
+👉 BAJFINANCE | Mar 2021 | ROE mismatch | Calculated=12.0 | Source=22.1
+----------------------------------------
+Company: BAJFINANCE | Year: Mar 2022 | Metric: ROE
+Difference: 6.0% | Category: Formula Difference
+👉 BAJFINANCE | Mar 2022 | ROE mismatch | Calculated=16.1 | Source=22.1
+----------------------------------------
+Company: BANKBARODA | Year: Mar 2015 | Metric: ROE
+Difference: 7.3% | Category: Formula Difference
+👉 BANKBARODA | Mar 2015 | ROE mismatch | Calculated=9.4 | Source=16.7
+----------------------------------------
+Company: BANKBARODA | Year: Mar 2016 | Metric: ROE
+Difference: 28.5% | Category: Formula Difference
+👉 BANKBARODA | Mar 2016 | ROE mismatch | Calculated=-11.8 | Source=16.7
+----------------------------------------
+Company: BANKBARODA | Year: Mar 2017 | Metric: ROE
+Difference: 12.4% | Category: Formula Difference
+👉 BANKBARODA | Mar 2017 | ROE mismatch | Calculated=4.3 | Source=16.7
+----------------------------------------
+Company: BANKBARODA | Year: Mar 2018 | Metric: ROE
+Difference: 20.6% | Category: Formula Difference
+👉 BANKBARODA | Mar 2018 | ROE mismatch | Calculated=-3.9 | Source=16.7
+----------------------------------------
+Company: BANKBARODA | Year: Mar 2019 | Metric: ROE
+Difference: 14.6% | Category: Formula Difference
+👉 BANKBARODA | Mar 2019 | ROE mismatch | Calculated=2.1 | Source=16.7
+----------------------------------------
+Company: BANKBARODA | Year: Mar 2020 | Metric: ROE
+Difference: 15.4% | Category: Formula Difference
+👉 BANKBARODA | Mar 2020 | ROE mismatch | Calculated=1.3 | Source=16.7
+----------------------------------------
+Company: BANKBARODA | Year: Mar 2021 | Metric: ROE
+Difference: 14.7% | Category: Formula Difference
+👉 BANKBARODA | Mar 2021 | ROE mismatch | Calculated=2.0 | Source=16.7
+----------------------------------------
+Company: BANKBARODA | Year: Mar 2022 | Metric: ROE
+Difference: 8.1% | Category: Formula Difference
+👉 BANKBARODA | Mar 2022 | ROE mismatch | Calculated=8.6 | Source=16.7
+----------------------------------------
+Company: BEL | Year: Mar 2013 | Metric: ROE
+Difference: 15157.0% | Category: Formula Difference
+👉 BEL | Mar 2013 | ROE mismatch | Calculated=15183.3 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2014 | Metric: ROE
+Difference: 13573.7% | Category: Formula Difference
+👉 BEL | Mar 2014 | ROE mismatch | Calculated=13600.0 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2015 | Metric: ROE
+Difference: 17073.7% | Category: Formula Difference
+👉 BEL | Mar 2015 | ROE mismatch | Calculated=17100.0 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2016 | Metric: ROE
+Difference: 11115.4% | Category: Formula Difference
+👉 BEL | Mar 2016 | ROE mismatch | Calculated=11141.7 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2017 | Metric: ROE
+Difference: 10127.0% | Category: Formula Difference
+👉 BEL | Mar 2017 | ROE mismatch | Calculated=10153.3 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2018 | Metric: ROE
+Difference: 4589.8% | Category: Formula Difference
+👉 BEL | Mar 2018 | ROE mismatch | Calculated=4616.1 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2019 | Metric: ROE
+Difference: 3824.7% | Category: Formula Difference
+👉 BEL | Mar 2019 | ROE mismatch | Calculated=3851.0 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2020 | Metric: ROE
+Difference: 3291.9% | Category: Formula Difference
+👉 BEL | Mar 2020 | ROE mismatch | Calculated=3318.2 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2021 | Metric: ROE
+Difference: 3533.0% | Category: Formula Difference
+👉 BEL | Mar 2021 | ROE mismatch | Calculated=3559.3 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2022 | Metric: ROE
+Difference: 3452.0% | Category: Formula Difference
+👉 BEL | Mar 2022 | ROE mismatch | Calculated=3478.3 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2023 | Metric: ROE
+Difference: 3955.0% | Category: Formula Difference
+👉 BEL | Mar 2023 | ROE mismatch | Calculated=3981.3 | Source=26.3
+----------------------------------------
+Company: BEL | Year: Mar 2024 | Metric: ROE
+Difference: 4717.7% | Category: Formula Difference
+👉 BEL | Mar 2024 | ROE mismatch | Calculated=4744.0 | Source=26.3
+----------------------------------------
+Company: BHARTIARTL | Year: Mar 2013 | Metric: ROE
+Difference: 10.4% | Category: Formula Difference
+👉 BHARTIARTL | Mar 2013 | ROE mismatch | Calculated=4.5 | Source=14.9
+----------------------------------------
+Company: BHARTIARTL | Year: Mar 2014 | Metric: ROE
+Difference: 9.8% | Category: Formula Difference
+👉 BHARTIARTL | Mar 2014 | ROE mismatch | Calculated=5.1 | Source=14.9
+----------------------------------------
+Company: BHARTIARTL | Year: Mar 2017 | Metric: ROE
+Difference: 8.6% | Category: Formula Difference
+👉 BHARTIARTL | Mar 2017 | ROE mismatch | Calculated=6.3 | Source=14.9
+----------------------------------------
+Company: BHARTIARTL | Year: Mar 2018 | Metric: ROE
+Difference: 11.8% | Category: Formula Difference
+👉 BHARTIARTL | Mar 2018 | ROE mismatch | Calculated=3.1 | Source=14.9
+----------------------------------------
+Company: BHARTIARTL | Year: Mar 2019 | Metric: ROE
+Difference: 12.5% | Category: Formula Difference
+👉 BHARTIARTL | Mar 2019 | ROE mismatch | Calculated=2.4 | Source=14.9
+----------------------------------------
+Company: BHARTIARTL | Year: Mar 2020 | Metric: ROE
+Difference: 54.6% | Category: Formula Difference
+👉 BHARTIARTL | Mar 2020 | ROE mismatch | Calculated=-39.7 | Source=14.9
+----------------------------------------
+Company: BHARTIARTL | Year: Mar 2021 | Metric: ROE
+Difference: 35.9% | Category: Formula Difference
+👉 BHARTIARTL | Mar 2021 | ROE mismatch | Calculated=-21.0 | Source=14.9
+----------------------------------------
+Company: BHEL | Year: Mar 2013 | Metric: ROE
+Difference: 20.9% | Category: Formula Difference
+👉 BHEL | Mar 2013 | ROE mismatch | Calculated=21.9 | Source=1.1
+----------------------------------------
+Company: BHEL | Year: Mar 2014 | Metric: ROE
+Difference: 9.5% | Category: Formula Difference
+👉 BHEL | Mar 2014 | ROE mismatch | Calculated=10.6 | Source=1.1
+----------------------------------------
+Company: BHEL | Year: Mar 2020 | Metric: ROE
+Difference: 6.2% | Category: Formula Difference
+👉 BHEL | Mar 2020 | ROE mismatch | Calculated=-5.1 | Source=1.1
+----------------------------------------
+Company: BHEL | Year: Mar 2021 | Metric: ROE
+Difference: 11.4% | Category: Formula Difference
+👉 BHEL | Mar 2021 | ROE mismatch | Calculated=-10.4 | Source=1.1
+----------------------------------------
+Company: BOSCHLTD | Year: Mar 2020 | Metric: ROE
+Difference: 9.0% | Category: Formula Difference
+👉 BOSCHLTD | Mar 2020 | ROE mismatch | Calculated=7.0 | Source=16.0
+----------------------------------------
+Company: BOSCHLTD | Year: Mar 2021 | Metric: ROE
+Difference: 11.1% | Category: Formula Difference
+👉 BOSCHLTD | Mar 2021 | ROE mismatch | Calculated=4.9 | Source=16.0
+----------------------------------------
+Company: BPCL | Year: Mar 2013 | Metric: ROE
+Difference: 30.4% | Category: Formula Difference
+👉 BPCL | Mar 2013 | ROE mismatch | Calculated=11.5 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2014 | Metric: ROE
+Difference: 21.1% | Category: Formula Difference
+👉 BPCL | Mar 2014 | ROE mismatch | Calculated=20.8 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2015 | Metric: ROE
+Difference: 19.4% | Category: Formula Difference
+👉 BPCL | Mar 2015 | ROE mismatch | Calculated=22.5 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2016 | Metric: ROE
+Difference: 12.8% | Category: Formula Difference
+👉 BPCL | Mar 2016 | ROE mismatch | Calculated=29.1 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2017 | Metric: ROE
+Difference: 11.1% | Category: Formula Difference
+👉 BPCL | Mar 2017 | ROE mismatch | Calculated=30.8 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2018 | Metric: ROE
+Difference: 15.2% | Category: Formula Difference
+👉 BPCL | Mar 2018 | ROE mismatch | Calculated=26.7 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2019 | Metric: ROE
+Difference: 19.9% | Category: Formula Difference
+👉 BPCL | Mar 2019 | ROE mismatch | Calculated=22.0 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2020 | Metric: ROE
+Difference: 31.9% | Category: Formula Difference
+👉 BPCL | Mar 2020 | ROE mismatch | Calculated=10.0 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2021 | Metric: ROE
+Difference: 9.6% | Category: Formula Difference
+👉 BPCL | Mar 2021 | ROE mismatch | Calculated=32.3 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2022 | Metric: ROE
+Difference: 19.4% | Category: Formula Difference
+👉 BPCL | Mar 2022 | ROE mismatch | Calculated=22.5 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2023 | Metric: ROE
+Difference: 37.9% | Category: Formula Difference
+👉 BPCL | Mar 2023 | ROE mismatch | Calculated=4.0 | Source=41.9
+----------------------------------------
+Company: BPCL | Year: Mar 2024 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 BPCL | Mar 2024 | ROE mismatch | Calculated=35.5 | Source=41.9
+----------------------------------------
+Company: BRITANNIA | Year: Mar 2013 | Metric: ROE
+Difference: 10.5% | Category: Formula Difference
+👉 BRITANNIA | Mar 2013 | ROE mismatch | Calculated=46.6 | Source=57.1
+----------------------------------------
+Company: BRITANNIA | Year: Mar 2014 | Metric: ROE
+Difference: 7.6% | Category: Formula Difference
+👉 BRITANNIA | Mar 2014 | ROE mismatch | Calculated=49.5 | Source=57.1
+----------------------------------------
+Company: BRITANNIA | Year: Mar 2016 | Metric: ROE
+Difference: 17.7% | Category: Formula Difference
+👉 BRITANNIA | Mar 2016 | ROE mismatch | Calculated=39.4 | Source=57.1
+----------------------------------------
+Company: BRITANNIA | Year: Mar 2017 | Metric: ROE
+Difference: 24.3% | Category: Formula Difference
+👉 BRITANNIA | Mar 2017 | ROE mismatch | Calculated=32.8 | Source=57.1
+----------------------------------------
+Company: BRITANNIA | Year: Mar 2018 | Metric: ROE
+Difference: 27.6% | Category: Formula Difference
+👉 BRITANNIA | Mar 2018 | ROE mismatch | Calculated=29.5 | Source=57.1
+----------------------------------------
+Company: BRITANNIA | Year: Mar 2019 | Metric: ROE
+Difference: 29.9% | Category: Formula Difference
+👉 BRITANNIA | Mar 2019 | ROE mismatch | Calculated=27.2 | Source=57.1
+----------------------------------------
+Company: BRITANNIA | Year: Mar 2020 | Metric: ROE
+Difference: 25.4% | Category: Formula Difference
+👉 BRITANNIA | Mar 2020 | ROE mismatch | Calculated=31.7 | Source=57.1
+----------------------------------------
+Company: BRITANNIA | Year: Mar 2023 | Metric: ROE
+Difference: 8.4% | Category: Formula Difference
+👉 BRITANNIA | Mar 2023 | ROE mismatch | Calculated=65.5 | Source=57.1
+----------------------------------------
+Company: CANBK | Year: Mar 2013 | Metric: ROE
+Difference: 6.0% | Category: Formula Difference
+👉 CANBK | Mar 2013 | ROE mismatch | Calculated=11.9 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2014 | Metric: ROE
+Difference: 9.0% | Category: Formula Difference
+👉 CANBK | Mar 2014 | ROE mismatch | Calculated=8.9 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2015 | Metric: ROE
+Difference: 8.9% | Category: Formula Difference
+👉 CANBK | Mar 2015 | ROE mismatch | Calculated=9.0 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2016 | Metric: ROE
+Difference: 25.7% | Category: Formula Difference
+👉 CANBK | Mar 2016 | ROE mismatch | Calculated=-7.8 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2017 | Metric: ROE
+Difference: 13.8% | Category: Formula Difference
+👉 CANBK | Mar 2017 | ROE mismatch | Calculated=4.1 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2018 | Metric: ROE
+Difference: 28.4% | Category: Formula Difference
+👉 CANBK | Mar 2018 | ROE mismatch | Calculated=-10.5 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2019 | Metric: ROE
+Difference: 16.1% | Category: Formula Difference
+👉 CANBK | Mar 2019 | ROE mismatch | Calculated=1.8 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2020 | Metric: ROE
+Difference: 22.6% | Category: Formula Difference
+👉 CANBK | Mar 2020 | ROE mismatch | Calculated=-4.7 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2021 | Metric: ROE
+Difference: 13.2% | Category: Formula Difference
+👉 CANBK | Mar 2021 | ROE mismatch | Calculated=4.7 | Source=17.9
+----------------------------------------
+Company: CANBK | Year: Mar 2022 | Metric: ROE
+Difference: 9.1% | Category: Formula Difference
+👉 CANBK | Mar 2022 | ROE mismatch | Calculated=8.8 | Source=17.9
+----------------------------------------
+Company: CHOLAFIN | Year: Mar 2020 | Metric: ROE
+Difference: 7.3% | Category: Formula Difference
+👉 CHOLAFIN | Mar 2020 | ROE mismatch | Calculated=12.9 | Source=20.2
+----------------------------------------
+Company: CIPLA | Year: Mar 2015 | Metric: ROE
+Difference: 5.4% | Category: Formula Difference
+👉 CIPLA | Mar 2015 | ROE mismatch | Calculated=11.4 | Source=16.8
+----------------------------------------
+Company: CIPLA | Year: Mar 2017 | Metric: ROE
+Difference: 8.5% | Category: Formula Difference
+👉 CIPLA | Mar 2017 | ROE mismatch | Calculated=8.3 | Source=16.8
+----------------------------------------
+Company: CIPLA | Year: Mar 2018 | Metric: ROE
+Difference: 6.8% | Category: Formula Difference
+👉 CIPLA | Mar 2018 | ROE mismatch | Calculated=10.0 | Source=16.8
+----------------------------------------
+Company: CIPLA | Year: Mar 2019 | Metric: ROE
+Difference: 6.9% | Category: Formula Difference
+👉 CIPLA | Mar 2019 | ROE mismatch | Calculated=9.9 | Source=16.8
+----------------------------------------
+Company: CIPLA | Year: Mar 2020 | Metric: ROE
+Difference: 7.3% | Category: Formula Difference
+👉 CIPLA | Mar 2020 | ROE mismatch | Calculated=9.5 | Source=16.8
+----------------------------------------
+Company: COALINDIA | Year: Mar 2013 | Metric: ROE
+Difference: 16.2% | Category: Formula Difference
+👉 COALINDIA | Mar 2013 | ROE mismatch | Calculated=35.8 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2014 | Metric: ROE
+Difference: 16.4% | Category: Formula Difference
+👉 COALINDIA | Mar 2014 | ROE mismatch | Calculated=35.6 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2015 | Metric: ROE
+Difference: 18.0% | Category: Formula Difference
+👉 COALINDIA | Mar 2015 | ROE mismatch | Calculated=34.0 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2016 | Metric: ROE
+Difference: 11.0% | Category: Formula Difference
+👉 COALINDIA | Mar 2016 | ROE mismatch | Calculated=41.0 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2017 | Metric: ROE
+Difference: 14.2% | Category: Formula Difference
+👉 COALINDIA | Mar 2017 | ROE mismatch | Calculated=37.8 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2018 | Metric: ROE
+Difference: 17.1% | Category: Formula Difference
+👉 COALINDIA | Mar 2018 | ROE mismatch | Calculated=34.9 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2019 | Metric: ROE
+Difference: 14.0% | Category: Formula Difference
+👉 COALINDIA | Mar 2019 | ROE mismatch | Calculated=66.0 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2021 | Metric: ROE
+Difference: 17.2% | Category: Formula Difference
+👉 COALINDIA | Mar 2021 | ROE mismatch | Calculated=34.8 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2022 | Metric: ROE
+Difference: 11.7% | Category: Formula Difference
+👉 COALINDIA | Mar 2022 | ROE mismatch | Calculated=40.3 | Source=52.0
+----------------------------------------
+Company: COALINDIA | Year: Mar 2024 | Metric: ROE
+Difference: 6.8% | Category: Formula Difference
+👉 COALINDIA | Mar 2024 | ROE mismatch | Calculated=45.2 | Source=52.0
+----------------------------------------
+Company: DABUR | Year: Mar 2013 | Metric: ROE
+Difference: 17.4% | Category: Formula Difference
+👉 DABUR | Mar 2013 | ROE mismatch | Calculated=36.6 | Source=19.2
+----------------------------------------
+Company: DABUR | Year: Mar 2014 | Metric: ROE
+Difference: 15.3% | Category: Formula Difference
+👉 DABUR | Mar 2014 | ROE mismatch | Calculated=34.5 | Source=19.2
+----------------------------------------
+Company: DABUR | Year: Mar 2015 | Metric: ROE
+Difference: 12.6% | Category: Formula Difference
+👉 DABUR | Mar 2015 | ROE mismatch | Calculated=31.8 | Source=19.2
+----------------------------------------
+Company: DABUR | Year: Mar 2016 | Metric: ROE
+Difference: 10.9% | Category: Formula Difference
+👉 DABUR | Mar 2016 | ROE mismatch | Calculated=30.1 | Source=19.2
+----------------------------------------
+Company: DABUR | Year: Mar 2017 | Metric: ROE
+Difference: 7.2% | Category: Formula Difference
+👉 DABUR | Mar 2017 | ROE mismatch | Calculated=26.4 | Source=19.2
+----------------------------------------
+Company: DABUR | Year: Mar 2019 | Metric: ROE
+Difference: 6.5% | Category: Formula Difference
+👉 DABUR | Mar 2019 | ROE mismatch | Calculated=25.7 | Source=19.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2013 | Metric: ROE
+Difference: 11.9% | Category: Formula Difference
+👉 DIVISLAB | Mar 2013 | ROE mismatch | Calculated=24.1 | Source=12.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2014 | Metric: ROE
+Difference: 13.9% | Category: Formula Difference
+👉 DIVISLAB | Mar 2014 | ROE mismatch | Calculated=26.1 | Source=12.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2015 | Metric: ROE
+Difference: 12.2% | Category: Formula Difference
+👉 DIVISLAB | Mar 2015 | ROE mismatch | Calculated=24.4 | Source=12.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2016 | Metric: ROE
+Difference: 14.0% | Category: Formula Difference
+👉 DIVISLAB | Mar 2016 | ROE mismatch | Calculated=26.2 | Source=12.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2017 | Metric: ROE
+Difference: 7.6% | Category: Formula Difference
+👉 DIVISLAB | Mar 2017 | ROE mismatch | Calculated=19.8 | Source=12.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2019 | Metric: ROE
+Difference: 7.2% | Category: Formula Difference
+👉 DIVISLAB | Mar 2019 | ROE mismatch | Calculated=19.4 | Source=12.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2020 | Metric: ROE
+Difference: 6.6% | Category: Formula Difference
+👉 DIVISLAB | Mar 2020 | ROE mismatch | Calculated=18.8 | Source=12.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2021 | Metric: ROE
+Difference: 9.1% | Category: Formula Difference
+👉 DIVISLAB | Mar 2021 | ROE mismatch | Calculated=21.3 | Source=12.2
+----------------------------------------
+Company: DIVISLAB | Year: Mar 2022 | Metric: ROE
+Difference: 13.0% | Category: Formula Difference
+👉 DIVISLAB | Mar 2022 | ROE mismatch | Calculated=25.2 | Source=12.2
+----------------------------------------
+Company: DLF | Year: Mar 2015 | Metric: ROE
+Difference: 5.1% | Category: Formula Difference
+👉 DLF | Mar 2015 | ROE mismatch | Calculated=1.9 | Source=7.0
+----------------------------------------
+Company: DLF | Year: Mar 2016 | Metric: ROE
+Difference: 5.7% | Category: Formula Difference
+👉 DLF | Mar 2016 | ROE mismatch | Calculated=1.3 | Source=7.0
+----------------------------------------
+Company: DLF | Year: Mar 2018 | Metric: ROE
+Difference: 5.7% | Category: Formula Difference
+👉 DLF | Mar 2018 | ROE mismatch | Calculated=12.7 | Source=7.0
+----------------------------------------
+Company: DLF | Year: Mar 2020 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 DLF | Mar 2020 | ROE mismatch | Calculated=-1.7 | Source=7.0
+----------------------------------------
+Company: DMART | Year: Mar 2016 | Metric: ROE
+Difference: 6.5% | Category: Formula Difference
+👉 DMART | Mar 2016 | ROE mismatch | Calculated=21.0 | Source=14.5
+----------------------------------------
+Company: DMART | Year: Mar 2021 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 DMART | Mar 2021 | ROE mismatch | Calculated=9.0 | Source=14.5
+----------------------------------------
+Company: DRREDDY | Year: Mar 2017 | Metric: ROE
+Difference: 10.9% | Category: Formula Difference
+👉 DRREDDY | Mar 2017 | ROE mismatch | Calculated=10.5 | Source=21.4
+----------------------------------------
+Company: DRREDDY | Year: Mar 2018 | Metric: ROE
+Difference: 13.9% | Category: Formula Difference
+👉 DRREDDY | Mar 2018 | ROE mismatch | Calculated=7.5 | Source=21.4
+----------------------------------------
+Company: DRREDDY | Year: Mar 2019 | Metric: ROE
+Difference: 7.5% | Category: Formula Difference
+👉 DRREDDY | Mar 2019 | ROE mismatch | Calculated=13.9 | Source=21.4
+----------------------------------------
+Company: DRREDDY | Year: Mar 2020 | Metric: ROE
+Difference: 8.4% | Category: Formula Difference
+👉 DRREDDY | Mar 2020 | ROE mismatch | Calculated=13.0 | Source=21.4
+----------------------------------------
+Company: DRREDDY | Year: Mar 2021 | Metric: ROE
+Difference: 10.3% | Category: Formula Difference
+👉 DRREDDY | Mar 2021 | ROE mismatch | Calculated=11.1 | Source=21.4
+----------------------------------------
+Company: DRREDDY | Year: Mar 2022 | Metric: ROE
+Difference: 10.0% | Category: Formula Difference
+👉 DRREDDY | Mar 2022 | ROE mismatch | Calculated=11.4 | Source=21.4
+----------------------------------------
+Company: EICHERMOT | Year: Mar 2016 | Metric: ROE
+Difference: 12.4% | Category: Formula Difference
+👉 EICHERMOT | Mar 2016 | ROE mismatch | Calculated=36.6 | Source=24.2
+----------------------------------------
+Company: EICHERMOT | Year: Mar 2017 | Metric: ROE
+Difference: 7.0% | Category: Formula Difference
+👉 EICHERMOT | Mar 2017 | ROE mismatch | Calculated=31.2 | Source=24.2
+----------------------------------------
+Company: EICHERMOT | Year: Mar 2020 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 EICHERMOT | Mar 2020 | ROE mismatch | Calculated=18.3 | Source=24.2
+----------------------------------------
+Company: EICHERMOT | Year: Mar 2021 | Metric: ROE
+Difference: 12.4% | Category: Formula Difference
+👉 EICHERMOT | Mar 2021 | ROE mismatch | Calculated=11.8 | Source=24.2
+----------------------------------------
+Company: EICHERMOT | Year: Mar 2022 | Metric: ROE
+Difference: 10.9% | Category: Formula Difference
+👉 EICHERMOT | Mar 2022 | ROE mismatch | Calculated=13.3 | Source=24.2
+----------------------------------------
+Company: GAIL | Year: Mar 2016 | Metric: ROE
+Difference: 8.9% | Category: Formula Difference
+👉 GAIL | Mar 2016 | ROE mismatch | Calculated=5.1 | Source=14.0
+----------------------------------------
+Company: GAIL | Year: Mar 2017 | Metric: ROE
+Difference: 5.4% | Category: Formula Difference
+👉 GAIL | Mar 2017 | ROE mismatch | Calculated=8.6 | Source=14.0
+----------------------------------------
+Company: GAIL | Year: Mar 2020 | Metric: ROE
+Difference: 5.3% | Category: Formula Difference
+👉 GAIL | Mar 2020 | ROE mismatch | Calculated=19.3 | Source=14.0
+----------------------------------------
+Company: GAIL | Year: Mar 2022 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 GAIL | Mar 2022 | ROE mismatch | Calculated=19.2 | Source=14.0
+----------------------------------------
+Company: GAIL | Year: Mar 2023 | Metric: ROE
+Difference: 5.4% | Category: Formula Difference
+👉 GAIL | Mar 2023 | ROE mismatch | Calculated=8.6 | Source=14.0
+----------------------------------------
+Company: GODREJCP | Year: Mar 2013 | Metric: ROE
+Difference: 18.7% | Category: Formula Difference
+👉 GODREJCP | Mar 2013 | ROE mismatch | Calculated=25.5 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2014 | Metric: ROE
+Difference: 14.9% | Category: Formula Difference
+👉 GODREJCP | Mar 2014 | ROE mismatch | Calculated=21.7 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2015 | Metric: ROE
+Difference: 15.9% | Category: Formula Difference
+👉 GODREJCP | Mar 2015 | ROE mismatch | Calculated=22.6 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2016 | Metric: ROE
+Difference: 12.7% | Category: Formula Difference
+👉 GODREJCP | Mar 2016 | ROE mismatch | Calculated=19.5 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2017 | Metric: ROE
+Difference: 17.9% | Category: Formula Difference
+👉 GODREJCP | Mar 2017 | ROE mismatch | Calculated=24.7 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2018 | Metric: ROE
+Difference: 19.3% | Category: Formula Difference
+👉 GODREJCP | Mar 2018 | ROE mismatch | Calculated=26.1 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2019 | Metric: ROE
+Difference: 25.5% | Category: Formula Difference
+👉 GODREJCP | Mar 2019 | ROE mismatch | Calculated=32.2 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2020 | Metric: ROE
+Difference: 12.2% | Category: Formula Difference
+👉 GODREJCP | Mar 2020 | ROE mismatch | Calculated=19.0 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2021 | Metric: ROE
+Difference: 11.5% | Category: Formula Difference
+👉 GODREJCP | Mar 2021 | ROE mismatch | Calculated=18.2 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2022 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 GODREJCP | Mar 2022 | ROE mismatch | Calculated=15.4 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2023 | Metric: ROE
+Difference: 5.6% | Category: Formula Difference
+👉 GODREJCP | Mar 2023 | ROE mismatch | Calculated=12.3 | Source=6.8
+----------------------------------------
+Company: GODREJCP | Year: Mar 2024 | Metric: ROE
+Difference: 11.2% | Category: Formula Difference
+👉 GODREJCP | Mar 2024 | ROE mismatch | Calculated=-4.5 | Source=6.8
+----------------------------------------
+Company: GRASIM | Year: Mar 2013 | Metric: ROE
+Difference: 12.3% | Category: Formula Difference
+👉 GRASIM | Mar 2013 | ROE mismatch | Calculated=19.2 | Source=6.9
+----------------------------------------
+Company: GRASIM | Year: Mar 2014 | Metric: ROE
+Difference: 6.8% | Category: Formula Difference
+👉 GRASIM | Mar 2014 | ROE mismatch | Calculated=13.7 | Source=6.9
+----------------------------------------
+Company: GRASIM | Year: Mar 2016 | Metric: ROE
+Difference: 5.7% | Category: Formula Difference
+👉 GRASIM | Mar 2016 | ROE mismatch | Calculated=12.6 | Source=6.9
+----------------------------------------
+Company: GRASIM | Year: Mar 2017 | Metric: ROE
+Difference: 6.6% | Category: Formula Difference
+👉 GRASIM | Mar 2017 | ROE mismatch | Calculated=13.5 | Source=6.9
+----------------------------------------
+Company: GRASIM | Year: Mar 2022 | Metric: ROE
+Difference: 7.9% | Category: Formula Difference
+👉 GRASIM | Mar 2022 | ROE mismatch | Calculated=14.8 | Source=6.9
+----------------------------------------
+Company: GRASIM | Year: Mar 2023 | Metric: ROE
+Difference: 7.2% | Category: Formula Difference
+👉 GRASIM | Mar 2023 | ROE mismatch | Calculated=14.1 | Source=6.9
+----------------------------------------
+Company: HAL | Year: Mar 2016 | Metric: ROE
+Difference: 1636.1% | Category: Formula Difference
+👉 HAL | Mar 2016 | ROE mismatch | Calculated=1665.0 | Source=28.9
+----------------------------------------
+Company: HAL | Year: Mar 2017 | Metric: ROE
+Difference: 1938.0% | Category: Formula Difference
+👉 HAL | Mar 2017 | ROE mismatch | Calculated=1966.9 | Source=28.9
+----------------------------------------
+Company: HAL | Year: Mar 2018 | Metric: ROE
+Difference: 1499.6% | Category: Formula Difference
+👉 HAL | Mar 2018 | ROE mismatch | Calculated=1528.5 | Source=28.9
+----------------------------------------
+Company: HAL | Year: Mar 2019 | Metric: ROE
+Difference: 1735.0% | Category: Formula Difference
+👉 HAL | Mar 2019 | ROE mismatch | Calculated=1763.9 | Source=28.9
+----------------------------------------
+Company: HAL | Year: Mar 2020 | Metric: ROE
+Difference: 2030.5% | Category: Formula Difference
+👉 HAL | Mar 2020 | ROE mismatch | Calculated=2059.4 | Source=28.9
+----------------------------------------
+Company: HAL | Year: Mar 2021 | Metric: ROE
+Difference: 2220.4% | Category: Formula Difference
+👉 HAL | Mar 2021 | ROE mismatch | Calculated=2249.3 | Source=28.9
+----------------------------------------
+Company: HAL | Year: Mar 2022 | Metric: ROE
+Difference: 3295.3% | Category: Formula Difference
+👉 HAL | Mar 2022 | ROE mismatch | Calculated=3324.2 | Source=28.9
+----------------------------------------
+Company: HAL | Year: Mar 2023 | Metric: ROE
+Difference: 3254.2% | Category: Formula Difference
+👉 HAL | Mar 2023 | ROE mismatch | Calculated=3283.1 | Source=28.9
+----------------------------------------
+Company: HAL | Year: Mar 2024 | Metric: ROE
+Difference: 3787.7% | Category: Formula Difference
+👉 HAL | Mar 2024 | ROE mismatch | Calculated=3816.6 | Source=28.9
+----------------------------------------
+Company: HAVELLS | Year: Mar 2013 | Metric: ROE
+Difference: 22.3% | Category: Formula Difference
+👉 HAVELLS | Mar 2013 | ROE mismatch | Calculated=40.3 | Source=18.0
+----------------------------------------
+Company: HAVELLS | Year: Mar 2014 | Metric: ROE
+Difference: 8.8% | Category: Formula Difference
+👉 HAVELLS | Mar 2014 | ROE mismatch | Calculated=26.8 | Source=18.0
+----------------------------------------
+Company: HAVELLS | Year: Mar 2016 | Metric: ROE
+Difference: 24.9% | Category: Formula Difference
+👉 HAVELLS | Mar 2016 | ROE mismatch | Calculated=42.9 | Source=18.0
+----------------------------------------
+Company: HCLTECH | Year: Jun 2013 | Metric: ROE
+Difference: 7.4% | Category: Formula Difference
+👉 HCLTECH | Jun 2013 | ROE mismatch | Calculated=30.7 | Source=23.3
+----------------------------------------
+Company: HCLTECH | Year: Jun 2014 | Metric: ROE
+Difference: 10.1% | Category: Formula Difference
+👉 HCLTECH | Jun 2014 | ROE mismatch | Calculated=33.4 | Source=23.3
+----------------------------------------
+Company: HCLTECH | Year: Jun 2015 | Metric: ROE
+Difference: 7.0% | Category: Formula Difference
+👉 HCLTECH | Jun 2015 | ROE mismatch | Calculated=30.3 | Source=23.3
+----------------------------------------
+Company: HDFCLIFE | Year: Mar 2013 | Metric: ROE
+Difference: 22.0% | Category: Formula Difference
+👉 HDFCLIFE | Mar 2013 | ROE mismatch | Calculated=33.4 | Source=11.4
+----------------------------------------
+Company: HDFCLIFE | Year: Mar 2014 | Metric: ROE
+Difference: 26.2% | Category: Formula Difference
+👉 HDFCLIFE | Mar 2014 | ROE mismatch | Calculated=37.6 | Source=11.4
+----------------------------------------
+Company: HDFCLIFE | Year: Mar 2015 | Metric: ROE
+Difference: 19.5% | Category: Formula Difference
+👉 HDFCLIFE | Mar 2015 | ROE mismatch | Calculated=30.9 | Source=11.4
+----------------------------------------
+Company: HDFCLIFE | Year: Mar 2016 | Metric: ROE
+Difference: 14.9% | Category: Formula Difference
+👉 HDFCLIFE | Mar 2016 | ROE mismatch | Calculated=26.3 | Source=11.4
+----------------------------------------
+Company: HDFCLIFE | Year: Mar 2017 | Metric: ROE
+Difference: 11.8% | Category: Formula Difference
+👉 HDFCLIFE | Mar 2017 | ROE mismatch | Calculated=23.2 | Source=11.4
+----------------------------------------
+Company: HDFCLIFE | Year: Mar 2018 | Metric: ROE
+Difference: 12.1% | Category: Formula Difference
+👉 HDFCLIFE | Mar 2018 | ROE mismatch | Calculated=23.5 | Source=11.4
+----------------------------------------
+Company: HDFCLIFE | Year: Mar 2019 | Metric: ROE
+Difference: 11.3% | Category: Formula Difference
+👉 HDFCLIFE | Mar 2019 | ROE mismatch | Calculated=22.7 | Source=11.4
+----------------------------------------
+Company: HDFCLIFE | Year: Mar 2020 | Metric: ROE
+Difference: 7.7% | Category: Formula Difference
+👉 HDFCLIFE | Mar 2020 | ROE mismatch | Calculated=19.1 | Source=11.4
+----------------------------------------
+Company: HEROMOTOCO | Year: Mar 2014 | Metric: ROE
+Difference: 15.4% | Category: Formula Difference
+👉 HEROMOTOCO | Mar 2014 | ROE mismatch | Calculated=37.4 | Source=22.0
+----------------------------------------
+Company: HEROMOTOCO | Year: Mar 2015 | Metric: ROE
+Difference: 14.1% | Category: Formula Difference
+👉 HEROMOTOCO | Mar 2015 | ROE mismatch | Calculated=36.1 | Source=22.0
+----------------------------------------
+Company: HEROMOTOCO | Year: Mar 2016 | Metric: ROE
+Difference: 13.2% | Category: Formula Difference
+👉 HEROMOTOCO | Mar 2016 | ROE mismatch | Calculated=35.2 | Source=22.0
+----------------------------------------
+Company: HEROMOTOCO | Year: Mar 2017 | Metric: ROE
+Difference: 12.4% | Category: Formula Difference
+👉 HEROMOTOCO | Mar 2017 | ROE mismatch | Calculated=34.4 | Source=22.0
+----------------------------------------
+Company: HEROMOTOCO | Year: Mar 2018 | Metric: ROE
+Difference: 9.1% | Category: Formula Difference
+👉 HEROMOTOCO | Mar 2018 | ROE mismatch | Calculated=31.1 | Source=22.0
+----------------------------------------
+Company: HEROMOTOCO | Year: Mar 2022 | Metric: ROE
+Difference: 7.3% | Category: Formula Difference
+👉 HEROMOTOCO | Mar 2022 | ROE mismatch | Calculated=14.7 | Source=22.0
+----------------------------------------
+Company: HEROMOTOCO | Year: Mar 2023 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 HEROMOTOCO | Mar 2023 | ROE mismatch | Calculated=16.8 | Source=22.0
+----------------------------------------
+Company: HINDALCO | Year: Mar 2015 | Metric: ROE
+Difference: 9.5% | Category: Formula Difference
+👉 HINDALCO | Mar 2015 | ROE mismatch | Calculated=0.7 | Source=10.2
+----------------------------------------
+Company: HINDALCO | Year: Mar 2016 | Metric: ROE
+Difference: 11.9% | Category: Formula Difference
+👉 HINDALCO | Mar 2016 | ROE mismatch | Calculated=-1.7 | Source=10.2
+----------------------------------------
+Company: HINDALCO | Year: Mar 2017 | Metric: ROE
+Difference: 6.1% | Category: Formula Difference
+👉 HINDALCO | Mar 2017 | ROE mismatch | Calculated=4.1 | Source=10.2
+----------------------------------------
+Company: HINDALCO | Year: Mar 2022 | Metric: ROE
+Difference: 7.4% | Category: Formula Difference
+👉 HINDALCO | Mar 2022 | ROE mismatch | Calculated=17.6 | Source=10.2
+----------------------------------------
+Company: HINDUNILVR | Year: Mar 2013 | Metric: ROE
+Difference: 113.8% | Category: Formula Difference
+👉 HINDUNILVR | Mar 2013 | ROE mismatch | Calculated=134.0 | Source=20.2
+----------------------------------------
+Company: HINDUNILVR | Year: Mar 2014 | Metric: ROE
+Difference: 91.6% | Category: Formula Difference
+👉 HINDUNILVR | Mar 2014 | ROE mismatch | Calculated=111.8 | Source=20.2
+----------------------------------------
+Company: HINDUNILVR | Year: Mar 2015 | Metric: ROE
+Difference: 88.5% | Category: Formula Difference
+👉 HINDUNILVR | Mar 2015 | ROE mismatch | Calculated=108.7 | Source=20.2
+----------------------------------------
+Company: HINDUNILVR | Year: Mar 2016 | Metric: ROE
+Difference: 43.0% | Category: Formula Difference
+👉 HINDUNILVR | Mar 2016 | ROE mismatch | Calculated=63.2 | Source=20.2
+----------------------------------------
+Company: HINDUNILVR | Year: Mar 2017 | Metric: ROE
+Difference: 46.4% | Category: Formula Difference
+👉 HINDUNILVR | Mar 2017 | ROE mismatch | Calculated=66.6 | Source=20.2
+----------------------------------------
+Company: HINDUNILVR | Year: Mar 2018 | Metric: ROE
+Difference: 51.6% | Category: Formula Difference
+👉 HINDUNILVR | Mar 2018 | ROE mismatch | Calculated=71.8 | Source=20.2
+----------------------------------------
+Company: HINDUNILVR | Year: Mar 2019 | Metric: ROE
+Difference: 56.8% | Category: Formula Difference
+👉 HINDUNILVR | Mar 2019 | ROE mismatch | Calculated=77.0 | Source=20.2
+----------------------------------------
+Company: HINDUNILVR | Year: Mar 2020 | Metric: ROE
+Difference: 61.9% | Category: Formula Difference
+👉 HINDUNILVR | Mar 2020 | ROE mismatch | Calculated=82.1 | Source=20.2
+----------------------------------------
+Company: ICICIBANK | Year: Mar 2016 | Metric: ROE
+Difference: 7.2% | Category: Formula Difference
+👉 ICICIBANK | Mar 2016 | ROE mismatch | Calculated=11.6 | Source=18.8
+----------------------------------------
+Company: ICICIBANK | Year: Mar 2017 | Metric: ROE
+Difference: 8.0% | Category: Formula Difference
+👉 ICICIBANK | Mar 2017 | ROE mismatch | Calculated=10.8 | Source=18.8
+----------------------------------------
+Company: ICICIBANK | Year: Mar 2018 | Metric: ROE
+Difference: 10.6% | Category: Formula Difference
+👉 ICICIBANK | Mar 2018 | ROE mismatch | Calculated=8.2 | Source=18.8
+----------------------------------------
+Company: ICICIBANK | Year: Mar 2019 | Metric: ROE
+Difference: 13.8% | Category: Formula Difference
+👉 ICICIBANK | Mar 2019 | ROE mismatch | Calculated=5.0 | Source=18.8
+----------------------------------------
+Company: ICICIBANK | Year: Mar 2020 | Metric: ROE
+Difference: 9.7% | Category: Formula Difference
+👉 ICICIBANK | Mar 2020 | ROE mismatch | Calculated=9.1 | Source=18.8
+----------------------------------------
+Company: ICICIBANK | Year: Mar 2021 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 ICICIBANK | Mar 2021 | ROE mismatch | Calculated=12.9 | Source=18.8
+----------------------------------------
+Company: ICICIPRULI | Year: Mar 2013 | Metric: ROE
+Difference: 30.2% | Category: Formula Difference
+👉 ICICIPRULI | Mar 2013 | ROE mismatch | Calculated=38.2 | Source=8.1
+----------------------------------------
+Company: ICICIPRULI | Year: Mar 2014 | Metric: ROE
+Difference: 27.5% | Category: Formula Difference
+👉 ICICIPRULI | Mar 2014 | ROE mismatch | Calculated=35.6 | Source=8.1
+----------------------------------------
+Company: ICICIPRULI | Year: Mar 2015 | Metric: ROE
+Difference: 23.1% | Category: Formula Difference
+👉 ICICIPRULI | Mar 2015 | ROE mismatch | Calculated=31.1 | Source=8.1
+----------------------------------------
+Company: ICICIPRULI | Year: Mar 2016 | Metric: ROE
+Difference: 22.9% | Category: Formula Difference
+👉 ICICIPRULI | Mar 2016 | ROE mismatch | Calculated=31.0 | Source=8.1
+----------------------------------------
+Company: ICICIPRULI | Year: Mar 2017 | Metric: ROE
+Difference: 18.2% | Category: Formula Difference
+👉 ICICIPRULI | Mar 2017 | ROE mismatch | Calculated=26.3 | Source=8.1
+----------------------------------------
+Company: ICICIPRULI | Year: Mar 2018 | Metric: ROE
+Difference: 16.6% | Category: Formula Difference
+👉 ICICIPRULI | Mar 2018 | ROE mismatch | Calculated=24.6 | Source=8.1
+----------------------------------------
+Company: ICICIPRULI | Year: Mar 2019 | Metric: ROE
+Difference: 8.5% | Category: Formula Difference
+👉 ICICIPRULI | Mar 2019 | ROE mismatch | Calculated=16.6 | Source=8.1
+----------------------------------------
+Company: ICICIPRULI | Year: Mar 2020 | Metric: ROE
+Difference: 6.7% | Category: Formula Difference
+👉 ICICIPRULI | Mar 2020 | ROE mismatch | Calculated=14.8 | Source=8.1
+----------------------------------------
+Company: INDUSINDBK | Year: Mar 2021 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 INDUSINDBK | Mar 2021 | ROE mismatch | Calculated=6.5 | Source=15.2
+----------------------------------------
+Company: INDUSINDBK | Year: Mar 2022 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 INDUSINDBK | Mar 2022 | ROE mismatch | Calculated=9.7 | Source=15.2
+----------------------------------------
+Company: INFY | Year: Mar 2013 | Metric: ROE
+Difference: 7.0% | Category: Formula Difference
+👉 INFY | Mar 2013 | ROE mismatch | Calculated=24.8 | Source=31.8
+----------------------------------------
+Company: INFY | Year: Mar 2014 | Metric: ROE
+Difference: 7.9% | Category: Formula Difference
+👉 INFY | Mar 2014 | ROE mismatch | Calculated=23.9 | Source=31.8
+----------------------------------------
+Company: INFY | Year: Mar 2015 | Metric: ROE
+Difference: 7.4% | Category: Formula Difference
+👉 INFY | Mar 2015 | ROE mismatch | Calculated=24.4 | Source=31.8
+----------------------------------------
+Company: INFY | Year: Mar 2016 | Metric: ROE
+Difference: 10.0% | Category: Formula Difference
+👉 INFY | Mar 2016 | ROE mismatch | Calculated=21.8 | Source=31.8
+----------------------------------------
+Company: INFY | Year: Mar 2017 | Metric: ROE
+Difference: 11.0% | Category: Formula Difference
+👉 INFY | Mar 2017 | ROE mismatch | Calculated=20.8 | Source=31.8
+----------------------------------------
+Company: INFY | Year: Mar 2018 | Metric: ROE
+Difference: 7.1% | Category: Formula Difference
+👉 INFY | Mar 2018 | ROE mismatch | Calculated=24.7 | Source=31.8
+----------------------------------------
+Company: INFY | Year: Mar 2019 | Metric: ROE
+Difference: 8.1% | Category: Formula Difference
+👉 INFY | Mar 2019 | ROE mismatch | Calculated=23.7 | Source=31.8
+----------------------------------------
+Company: INFY | Year: Mar 2020 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 INFY | Mar 2020 | ROE mismatch | Calculated=25.4 | Source=31.8
+----------------------------------------
+Company: INFY | Year: Mar 2021 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 INFY | Mar 2021 | ROE mismatch | Calculated=25.4 | Source=31.8
+----------------------------------------
+Company: IOC | Year: Mar 2013 | Metric: ROE
+Difference: 19.7% | Category: Formula Difference
+👉 IOC | Mar 2013 | ROE mismatch | Calculated=5.8 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2014 | Metric: ROE
+Difference: 15.2% | Category: Formula Difference
+👉 IOC | Mar 2014 | ROE mismatch | Calculated=10.3 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2015 | Metric: ROE
+Difference: 18.4% | Category: Formula Difference
+👉 IOC | Mar 2015 | ROE mismatch | Calculated=7.1 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2016 | Metric: ROE
+Difference: 11.6% | Category: Formula Difference
+👉 IOC | Mar 2016 | ROE mismatch | Calculated=13.8 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2017 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 IOC | Mar 2017 | ROE mismatch | Calculated=20.0 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2018 | Metric: ROE
+Difference: 5.6% | Category: Formula Difference
+👉 IOC | Mar 2018 | ROE mismatch | Calculated=19.9 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2019 | Metric: ROE
+Difference: 10.1% | Category: Formula Difference
+👉 IOC | Mar 2019 | ROE mismatch | Calculated=15.4 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2020 | Metric: ROE
+Difference: 27.4% | Category: Formula Difference
+👉 IOC | Mar 2020 | ROE mismatch | Calculated=-2.0 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2021 | Metric: ROE
+Difference: 6.0% | Category: Formula Difference
+👉 IOC | Mar 2021 | ROE mismatch | Calculated=19.5 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2022 | Metric: ROE
+Difference: 6.2% | Category: Formula Difference
+👉 IOC | Mar 2022 | ROE mismatch | Calculated=19.3 | Source=25.4
+----------------------------------------
+Company: IOC | Year: Mar 2023 | Metric: ROE
+Difference: 17.1% | Category: Formula Difference
+👉 IOC | Mar 2023 | ROE mismatch | Calculated=8.4 | Source=25.4
+----------------------------------------
+Company: IRCTC | Year: Mar 2015 | Metric: ROE
+Difference: 10.9% | Category: Formula Difference
+👉 IRCTC | Mar 2015 | ROE mismatch | Calculated=29.5 | Source=40.4
+----------------------------------------
+Company: IRCTC | Year: Mar 2016 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 IRCTC | Mar 2016 | ROE mismatch | Calculated=34.9 | Source=40.4
+----------------------------------------
+Company: IRCTC | Year: Mar 2017 | Metric: ROE
+Difference: 11.3% | Category: Formula Difference
+👉 IRCTC | Mar 2017 | ROE mismatch | Calculated=29.1 | Source=40.4
+----------------------------------------
+Company: IRCTC | Year: Mar 2018 | Metric: ROE
+Difference: 17.3% | Category: Formula Difference
+👉 IRCTC | Mar 2018 | ROE mismatch | Calculated=23.1 | Source=40.4
+----------------------------------------
+Company: IRCTC | Year: Mar 2019 | Metric: ROE
+Difference: 11.5% | Category: Formula Difference
+👉 IRCTC | Mar 2019 | ROE mismatch | Calculated=28.9 | Source=40.4
+----------------------------------------
+Company: IRCTC | Year: Mar 2021 | Metric: ROE
+Difference: 27.6% | Category: Formula Difference
+👉 IRCTC | Mar 2021 | ROE mismatch | Calculated=12.8 | Source=40.4
+----------------------------------------
+Company: IRCTC | Year: Mar 2022 | Metric: ROE
+Difference: 5.1% | Category: Formula Difference
+👉 IRCTC | Mar 2022 | ROE mismatch | Calculated=35.3 | Source=40.4
+----------------------------------------
+Company: IRCTC | Year: Mar 2024 | Metric: ROE
+Difference: 6.0% | Category: Formula Difference
+👉 IRCTC | Mar 2024 | ROE mismatch | Calculated=34.4 | Source=40.4
+----------------------------------------
+Company: IRFC | Year: Mar 2013 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 IRFC | Mar 2013 | ROE mismatch | Calculated=8.2 | Source=13.7
+----------------------------------------
+Company: IRFC | Year: Mar 2016 | Metric: ROE
+Difference: 6.3% | Category: Formula Difference
+👉 IRFC | Mar 2016 | ROE mismatch | Calculated=7.4 | Source=13.7
+----------------------------------------
+Company: IRFC | Year: Mar 2017 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 IRFC | Mar 2017 | ROE mismatch | Calculated=7.8 | Source=13.7
+----------------------------------------
+Company: ITC | Year: Mar 2016 | Metric: ROE
+Difference: 7.2% | Category: Formula Difference
+👉 ITC | Mar 2016 | ROE mismatch | Calculated=22.3 | Source=29.5
+----------------------------------------
+Company: ITC | Year: Mar 2017 | Metric: ROE
+Difference: 6.9% | Category: Formula Difference
+👉 ITC | Mar 2017 | ROE mismatch | Calculated=22.6 | Source=29.5
+----------------------------------------
+Company: ITC | Year: Mar 2018 | Metric: ROE
+Difference: 7.6% | Category: Formula Difference
+👉 ITC | Mar 2018 | ROE mismatch | Calculated=21.9 | Source=29.5
+----------------------------------------
+Company: ITC | Year: Mar 2019 | Metric: ROE
+Difference: 7.8% | Category: Formula Difference
+👉 ITC | Mar 2019 | ROE mismatch | Calculated=21.7 | Source=29.5
+----------------------------------------
+Company: ITC | Year: Mar 2020 | Metric: ROE
+Difference: 5.6% | Category: Formula Difference
+👉 ITC | Mar 2020 | ROE mismatch | Calculated=23.9 | Source=29.5
+----------------------------------------
+Company: ITC | Year: Mar 2021 | Metric: ROE
+Difference: 7.3% | Category: Formula Difference
+👉 ITC | Mar 2021 | ROE mismatch | Calculated=22.2 | Source=29.5
+----------------------------------------
+Company: JINDALSTEL | Year: Mar 2014 | Metric: ROE
+Difference: 5.7% | Category: Formula Difference
+👉 JINDALSTEL | Mar 2014 | ROE mismatch | Calculated=8.4 | Source=14.1
+----------------------------------------
+Company: JINDALSTEL | Year: Mar 2015 | Metric: ROE
+Difference: 21.0% | Category: Formula Difference
+👉 JINDALSTEL | Mar 2015 | ROE mismatch | Calculated=-6.9 | Source=14.1
+----------------------------------------
+Company: JINDALSTEL | Year: Mar 2016 | Metric: ROE
+Difference: 23.6% | Category: Formula Difference
+👉 JINDALSTEL | Mar 2016 | ROE mismatch | Calculated=-9.5 | Source=14.1
+----------------------------------------
+Company: JINDALSTEL | Year: Mar 2017 | Metric: ROE
+Difference: 22.5% | Category: Formula Difference
+👉 JINDALSTEL | Mar 2017 | ROE mismatch | Calculated=-8.4 | Source=14.1
+----------------------------------------
+Company: JINDALSTEL | Year: Mar 2018 | Metric: ROE
+Difference: 19.4% | Category: Formula Difference
+👉 JINDALSTEL | Mar 2018 | ROE mismatch | Calculated=-5.3 | Source=14.1
+----------------------------------------
+Company: JINDALSTEL | Year: Mar 2019 | Metric: ROE
+Difference: 21.6% | Category: Formula Difference
+👉 JINDALSTEL | Mar 2019 | ROE mismatch | Calculated=-7.5 | Source=14.1
+----------------------------------------
+Company: JINDALSTEL | Year: Mar 2020 | Metric: ROE
+Difference: 15.3% | Category: Formula Difference
+👉 JINDALSTEL | Mar 2020 | ROE mismatch | Calculated=-1.2 | Source=14.1
+----------------------------------------
+Company: JSWENERGY | Year: Mar 2013 | Metric: ROE
+Difference: 6.1% | Category: Formula Difference
+👉 JSWENERGY | Mar 2013 | ROE mismatch | Calculated=14.5 | Source=8.4
+----------------------------------------
+Company: JSWENERGY | Year: Mar 2015 | Metric: ROE
+Difference: 9.7% | Category: Formula Difference
+👉 JSWENERGY | Mar 2015 | ROE mismatch | Calculated=18.1 | Source=8.4
+----------------------------------------
+Company: JSWENERGY | Year: Mar 2016 | Metric: ROE
+Difference: 6.6% | Category: Formula Difference
+👉 JSWENERGY | Mar 2016 | ROE mismatch | Calculated=15.0 | Source=8.4
+----------------------------------------
+Company: JSWENERGY | Year: Mar 2018 | Metric: ROE
+Difference: 7.6% | Category: Formula Difference
+👉 JSWENERGY | Mar 2018 | ROE mismatch | Calculated=0.8 | Source=8.4
+----------------------------------------
+Company: JSWSTEEL | Year: Mar 2013 | Metric: ROE
+Difference: 6.2% | Category: Formula Difference
+👉 JSWSTEEL | Mar 2013 | ROE mismatch | Calculated=5.4 | Source=11.7
+----------------------------------------
+Company: JSWSTEEL | Year: Mar 2014 | Metric: ROE
+Difference: 9.8% | Category: Formula Difference
+👉 JSWSTEEL | Mar 2014 | ROE mismatch | Calculated=1.9 | Source=11.7
+----------------------------------------
+Company: JSWSTEEL | Year: Mar 2016 | Metric: ROE
+Difference: 14.2% | Category: Formula Difference
+👉 JSWSTEEL | Mar 2016 | ROE mismatch | Calculated=-2.5 | Source=11.7
+----------------------------------------
+Company: JSWSTEEL | Year: Mar 2018 | Metric: ROE
+Difference: 10.2% | Category: Formula Difference
+👉 JSWSTEEL | Mar 2018 | ROE mismatch | Calculated=21.8 | Source=11.7
+----------------------------------------
+Company: JSWSTEEL | Year: Mar 2019 | Metric: ROE
+Difference: 10.0% | Category: Formula Difference
+👉 JSWSTEEL | Mar 2019 | ROE mismatch | Calculated=21.6 | Source=11.7
+----------------------------------------
+Company: JSWSTEEL | Year: Mar 2021 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 JSWSTEEL | Mar 2021 | ROE mismatch | Calculated=16.8 | Source=11.7
+----------------------------------------
+Company: JSWSTEEL | Year: Mar 2022 | Metric: ROE
+Difference: 19.5% | Category: Formula Difference
+👉 JSWSTEEL | Mar 2022 | ROE mismatch | Calculated=31.1 | Source=11.7
+----------------------------------------
+Company: JSWSTEEL | Year: Mar 2023 | Metric: ROE
+Difference: 5.4% | Category: Formula Difference
+👉 JSWSTEEL | Mar 2023 | ROE mismatch | Calculated=6.3 | Source=11.7
+----------------------------------------
+Company: LICI | Year: Mar 2019 | Metric: ROE
+Difference: 260.7% | Category: Formula Difference
+👉 LICI | Mar 2019 | ROE mismatch | Calculated=324.3 | Source=63.6
+----------------------------------------
+Company: LICI | Year: Mar 2020 | Metric: ROE
+Difference: 206.8% | Category: Formula Difference
+👉 LICI | Mar 2020 | ROE mismatch | Calculated=270.5 | Source=63.6
+----------------------------------------
+Company: LICI | Year: Mar 2021 | Metric: ROE
+Difference: 20.4% | Category: Formula Difference
+👉 LICI | Mar 2021 | ROE mismatch | Calculated=43.2 | Source=63.6
+----------------------------------------
+Company: LICI | Year: Mar 2022 | Metric: ROE
+Difference: 27.2% | Category: Formula Difference
+👉 LICI | Mar 2022 | ROE mismatch | Calculated=36.4 | Source=63.6
+----------------------------------------
+Company: LICI | Year: Mar 2023 | Metric: ROE
+Difference: 14.2% | Category: Formula Difference
+👉 LICI | Mar 2023 | ROE mismatch | Calculated=77.9 | Source=63.6
+----------------------------------------
+Company: LICI | Year: Mar 2024 | Metric: ROE
+Difference: 14.2% | Category: Formula Difference
+👉 LICI | Mar 2024 | ROE mismatch | Calculated=49.4 | Source=63.6
+----------------------------------------
+Company: LODHA | Year: Mar 2011 | Metric: ROE
+Difference: 24.8% | Category: Formula Difference
+👉 LODHA | Mar 2011 | ROE mismatch | Calculated=35.5 | Source=10.7
+----------------------------------------
+Company: LODHA | Year: Mar 2012 | Metric: ROE
+Difference: 23.1% | Category: Formula Difference
+👉 LODHA | Mar 2012 | ROE mismatch | Calculated=33.8 | Source=10.7
+----------------------------------------
+Company: LODHA | Year: Mar 2015 | Metric: ROE
+Difference: 13.5% | Category: Formula Difference
+👉 LODHA | Mar 2015 | ROE mismatch | Calculated=24.2 | Source=10.7
+----------------------------------------
+Company: LODHA | Year: Mar 2016 | Metric: ROE
+Difference: 7.0% | Category: Formula Difference
+👉 LODHA | Mar 2016 | ROE mismatch | Calculated=17.7 | Source=10.7
+----------------------------------------
+Company: LODHA | Year: Mar 2019 | Metric: ROE
+Difference: 32.1% | Category: Formula Difference
+👉 LODHA | Mar 2019 | ROE mismatch | Calculated=42.8 | Source=10.7
+----------------------------------------
+Company: LODHA | Year: Mar 2020 | Metric: ROE
+Difference: 5.6% | Category: Formula Difference
+👉 LODHA | Mar 2020 | ROE mismatch | Calculated=16.3 | Source=10.7
+----------------------------------------
+Company: LODHA | Year: Mar 2021 | Metric: ROE
+Difference: 9.7% | Category: Formula Difference
+👉 LODHA | Mar 2021 | ROE mismatch | Calculated=1.0 | Source=10.7
+----------------------------------------
+Company: LODHA | Year: Mar 2023 | Metric: ROE
+Difference: 6.8% | Category: Formula Difference
+👉 LODHA | Mar 2023 | ROE mismatch | Calculated=3.9 | Source=10.7
+----------------------------------------
+Company: LT | Year: Mar 2013 | Metric: ROE
+Difference: 384.7% | Category: Formula Difference
+👉 LT | Mar 2013 | ROE mismatch | Calculated=395.1 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2014 | Metric: ROE
+Difference: 292.9% | Category: Formula Difference
+👉 LT | Mar 2014 | ROE mismatch | Calculated=303.4 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2015 | Metric: ROE
+Difference: 234.6% | Category: Formula Difference
+👉 LT | Mar 2015 | ROE mismatch | Calculated=245.1 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2016 | Metric: ROE
+Difference: 205.6% | Category: Formula Difference
+👉 LT | Mar 2016 | ROE mismatch | Calculated=216.1 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2017 | Metric: ROE
+Difference: 195.8% | Category: Formula Difference
+👉 LT | Mar 2017 | ROE mismatch | Calculated=206.3 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2018 | Metric: ROE
+Difference: 196.9% | Category: Formula Difference
+👉 LT | Mar 2018 | ROE mismatch | Calculated=207.4 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2019 | Metric: ROE
+Difference: 198.3% | Category: Formula Difference
+👉 LT | Mar 2019 | ROE mismatch | Calculated=208.8 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2020 | Metric: ROE
+Difference: 191.1% | Category: Formula Difference
+👉 LT | Mar 2020 | ROE mismatch | Calculated=201.6 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2021 | Metric: ROE
+Difference: 166.4% | Category: Formula Difference
+👉 LT | Mar 2021 | ROE mismatch | Calculated=176.9 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2022 | Metric: ROE
+Difference: 62.4% | Category: Formula Difference
+👉 LT | Mar 2022 | ROE mismatch | Calculated=72.9 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2023 | Metric: ROE
+Difference: 65.0% | Category: Formula Difference
+👉 LT | Mar 2023 | ROE mismatch | Calculated=75.5 | Source=10.5
+----------------------------------------
+Company: LT | Year: Mar 2024 | Metric: ROE
+Difference: 67.2% | Category: Formula Difference
+👉 LT | Mar 2024 | ROE mismatch | Calculated=77.7 | Source=10.5
+----------------------------------------
+Company: LTIM | Year: Mar 2013 | Metric: ROE
+Difference: 15.9% | Category: Formula Difference
+👉 LTIM | Mar 2013 | ROE mismatch | Calculated=42.0 | Source=26.0
+----------------------------------------
+Company: LTIM | Year: Mar 2014 | Metric: ROE
+Difference: 35.8% | Category: Formula Difference
+👉 LTIM | Mar 2014 | ROE mismatch | Calculated=61.9 | Source=26.0
+----------------------------------------
+Company: LTIM | Year: Mar 2015 | Metric: ROE
+Difference: 11.9% | Category: Formula Difference
+👉 LTIM | Mar 2015 | ROE mismatch | Calculated=38.0 | Source=26.0
+----------------------------------------
+Company: LTIM | Year: Mar 2016 | Metric: ROE
+Difference: 13.3% | Category: Formula Difference
+👉 LTIM | Mar 2016 | ROE mismatch | Calculated=39.3 | Source=26.0
+----------------------------------------
+Company: M&M | Year: Mar 2020 | Metric: ROE
+Difference: 18.8% | Category: Formula Difference
+👉 M&M | Mar 2020 | ROE mismatch | Calculated=-0.8 | Source=18.0
+----------------------------------------
+Company: M&M | Year: Mar 2021 | Metric: ROE
+Difference: 14.4% | Category: Formula Difference
+👉 M&M | Mar 2021 | ROE mismatch | Calculated=3.6 | Source=18.0
+----------------------------------------
+Company: MARUTI | Year: Mar 2021 | Metric: ROE
+Difference: 7.4% | Category: Formula Difference
+👉 MARUTI | Mar 2021 | ROE mismatch | Calculated=8.4 | Source=15.8
+----------------------------------------
+Company: MARUTI | Year: Mar 2022 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 MARUTI | Mar 2022 | ROE mismatch | Calculated=7.0 | Source=15.8
+----------------------------------------
+Company: MOTHERSON | Year: Mar 2013 | Metric: ROE
+Difference: 7.9% | Category: Formula Difference
+👉 MOTHERSON | Mar 2013 | ROE mismatch | Calculated=19.7 | Source=11.8
+----------------------------------------
+Company: MOTHERSON | Year: Mar 2014 | Metric: ROE
+Difference: 25.3% | Category: Formula Difference
+👉 MOTHERSON | Mar 2014 | ROE mismatch | Calculated=37.1 | Source=11.8
+----------------------------------------
+Company: MOTHERSON | Year: Mar 2015 | Metric: ROE
+Difference: 27.1% | Category: Formula Difference
+👉 MOTHERSON | Mar 2015 | ROE mismatch | Calculated=38.9 | Source=11.8
+----------------------------------------
+Company: MOTHERSON | Year: Mar 2016 | Metric: ROE
+Difference: 28.5% | Category: Formula Difference
+👉 MOTHERSON | Mar 2016 | ROE mismatch | Calculated=40.3 | Source=11.8
+----------------------------------------
+Company: MOTHERSON | Year: Mar 2017 | Metric: ROE
+Difference: 14.5% | Category: Formula Difference
+👉 MOTHERSON | Mar 2017 | ROE mismatch | Calculated=26.3 | Source=11.8
+----------------------------------------
+Company: MOTHERSON | Year: Mar 2018 | Metric: ROE
+Difference: 11.1% | Category: Formula Difference
+👉 MOTHERSON | Mar 2018 | ROE mismatch | Calculated=22.9 | Source=11.8
+----------------------------------------
+Company: MOTHERSON | Year: Mar 2019 | Metric: ROE
+Difference: 7.3% | Category: Formula Difference
+👉 MOTHERSON | Mar 2019 | ROE mismatch | Calculated=19.1 | Source=11.8
+----------------------------------------
+Company: MOTHERSON | Year: Mar 2022 | Metric: ROE
+Difference: 6.1% | Category: Formula Difference
+👉 MOTHERSON | Mar 2022 | ROE mismatch | Calculated=5.7 | Source=11.8
+----------------------------------------
+Company: NAUKRI | Year: Mar 2013 | Metric: ROE
+Difference: 10.1% | Category: Formula Difference
+👉 NAUKRI | Mar 2013 | ROE mismatch | Calculated=12.5 | Source=2.4
+----------------------------------------
+Company: NAUKRI | Year: Mar 2014 | Metric: ROE
+Difference: 6.5% | Category: Formula Difference
+👉 NAUKRI | Mar 2014 | ROE mismatch | Calculated=8.9 | Source=2.4
+----------------------------------------
+Company: NAUKRI | Year: Mar 2016 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 NAUKRI | Mar 2016 | ROE mismatch | Calculated=7.6 | Source=2.4
+----------------------------------------
+Company: NAUKRI | Year: Mar 2017 | Metric: ROE
+Difference: 5.1% | Category: Formula Difference
+👉 NAUKRI | Mar 2017 | ROE mismatch | Calculated=-2.7 | Source=2.4
+----------------------------------------
+Company: NAUKRI | Year: Mar 2018 | Metric: ROE
+Difference: 22.1% | Category: Formula Difference
+👉 NAUKRI | Mar 2018 | ROE mismatch | Calculated=24.5 | Source=2.4
+----------------------------------------
+Company: NAUKRI | Year: Mar 2019 | Metric: ROE
+Difference: 20.8% | Category: Formula Difference
+👉 NAUKRI | Mar 2019 | ROE mismatch | Calculated=23.3 | Source=2.4
+----------------------------------------
+Company: NAUKRI | Year: Mar 2020 | Metric: ROE
+Difference: 13.6% | Category: Formula Difference
+👉 NAUKRI | Mar 2020 | ROE mismatch | Calculated=-11.2 | Source=2.4
+----------------------------------------
+Company: NAUKRI | Year: Mar 2021 | Metric: ROE
+Difference: 23.8% | Category: Formula Difference
+👉 NAUKRI | Mar 2021 | ROE mismatch | Calculated=26.3 | Source=2.4
+----------------------------------------
+Company: NAUKRI | Year: Mar 2022 | Metric: ROE
+Difference: 72.3% | Category: Formula Difference
+👉 NAUKRI | Mar 2022 | ROE mismatch | Calculated=74.7 | Source=2.4
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2013 | Metric: ROE
+Difference: 88.4% | Category: Formula Difference
+👉 NESTLEIND | Dec 2013 | ROE mismatch | Calculated=47.2 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2014 | Metric: ROE
+Difference: 93.8% | Category: Formula Difference
+👉 NESTLEIND | Dec 2014 | ROE mismatch | Calculated=41.8 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2015 | Metric: ROE
+Difference: 115.6% | Category: Formula Difference
+👉 NESTLEIND | Dec 2015 | ROE mismatch | Calculated=20.0 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2016 | Metric: ROE
+Difference: 105.1% | Category: Formula Difference
+👉 NESTLEIND | Dec 2016 | ROE mismatch | Calculated=30.5 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2017 | Metric: ROE
+Difference: 99.8% | Category: Formula Difference
+👉 NESTLEIND | Dec 2017 | ROE mismatch | Calculated=35.8 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2018 | Metric: ROE
+Difference: 91.9% | Category: Formula Difference
+👉 NESTLEIND | Dec 2018 | ROE mismatch | Calculated=43.8 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2019 | Metric: ROE
+Difference: 33.0% | Category: Formula Difference
+👉 NESTLEIND | Dec 2019 | ROE mismatch | Calculated=102.6 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2020 | Metric: ROE
+Difference: 32.5% | Category: Formula Difference
+👉 NESTLEIND | Dec 2020 | ROE mismatch | Calculated=103.1 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2021 | Metric: ROE
+Difference: 26.8% | Category: Formula Difference
+👉 NESTLEIND | Dec 2021 | ROE mismatch | Calculated=108.8 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2022 | Metric: ROE
+Difference: 38.4% | Category: Formula Difference
+👉 NESTLEIND | Dec 2022 | ROE mismatch | Calculated=97.2 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Dec 2023 | Metric: ROE
+Difference: 13.6% | Category: Formula Difference
+👉 NESTLEIND | Dec 2023 | ROE mismatch | Calculated=122.0 | Source=135.6
+----------------------------------------
+Company: NESTLEIND | Year: Mar 2024 | Metric: ROE
+Difference: 17.9% | Category: Formula Difference
+👉 NESTLEIND | Mar 2024 | ROE mismatch | Calculated=117.8 | Source=135.6
+----------------------------------------
+Company: ONGC | Year: Mar 2016 | Metric: ROE
+Difference: 7.7% | Category: Formula Difference
+👉 ONGC | Mar 2016 | ROE mismatch | Calculated=6.6 | Source=14.3
+----------------------------------------
+Company: ONGC | Year: Mar 2020 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 ONGC | Mar 2020 | ROE mismatch | Calculated=5.6 | Source=14.3
+----------------------------------------
+Company: PFC | Year: Mar 2017 | Metric: ROE
+Difference: 13.4% | Category: Formula Difference
+👉 PFC | Mar 2017 | ROE mismatch | Calculated=6.1 | Source=19.5
+----------------------------------------
+Company: PFC | Year: Mar 2019 | Metric: ROE
+Difference: 7.3% | Category: Formula Difference
+👉 PFC | Mar 2019 | ROE mismatch | Calculated=26.8 | Source=19.5
+----------------------------------------
+Company: PFC | Year: Mar 2021 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 PFC | Mar 2021 | ROE mismatch | Calculated=25.9 | Source=19.5
+----------------------------------------
+Company: PFC | Year: Mar 2022 | Metric: ROE
+Difference: 6.7% | Category: Formula Difference
+👉 PFC | Mar 2022 | ROE mismatch | Calculated=26.2 | Source=19.5
+----------------------------------------
+Company: PFC | Year: Mar 2023 | Metric: ROE
+Difference: 5.7% | Category: Formula Difference
+👉 PFC | Mar 2023 | ROE mismatch | Calculated=25.2 | Source=19.5
+----------------------------------------
+Company: PFC | Year: Mar 2024 | Metric: ROE
+Difference: 6.7% | Category: Formula Difference
+👉 PFC | Mar 2024 | ROE mismatch | Calculated=26.2 | Source=19.5
+----------------------------------------
+Company: PIDILITIND | Year: Mar 2016 | Metric: ROE
+Difference: 7.8% | Category: Formula Difference
+👉 PIDILITIND | Mar 2016 | ROE mismatch | Calculated=30.6 | Source=22.8
+----------------------------------------
+Company: PNB | Year: Mar 2013 | Metric: ROE
+Difference: 803.6% | Category: Formula Difference
+👉 PNB | Mar 2013 | ROE mismatch | Calculated=812.3 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2014 | Metric: ROE
+Difference: 384.7% | Category: Formula Difference
+👉 PNB | Mar 2014 | ROE mismatch | Calculated=393.4 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2015 | Metric: ROE
+Difference: 214.5% | Category: Formula Difference
+👉 PNB | Mar 2015 | ROE mismatch | Calculated=223.2 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2016 | Metric: ROE
+Difference: 172.3% | Category: Formula Difference
+👉 PNB | Mar 2016 | ROE mismatch | Calculated=-163.6 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2017 | Metric: ROE
+Difference: 13.5% | Category: Formula Difference
+👉 PNB | Mar 2017 | ROE mismatch | Calculated=22.2 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2018 | Metric: ROE
+Difference: 193.1% | Category: Formula Difference
+👉 PNB | Mar 2018 | ROE mismatch | Calculated=-184.4 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2019 | Metric: ROE
+Difference: 137.1% | Category: Formula Difference
+👉 PNB | Mar 2019 | ROE mismatch | Calculated=-128.4 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2021 | Metric: ROE
+Difference: 21.7% | Category: Formula Difference
+👉 PNB | Mar 2021 | ROE mismatch | Calculated=30.4 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2022 | Metric: ROE
+Difference: 31.2% | Category: Formula Difference
+👉 PNB | Mar 2022 | ROE mismatch | Calculated=39.9 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2023 | Metric: ROE
+Difference: 22.0% | Category: Formula Difference
+👉 PNB | Mar 2023 | ROE mismatch | Calculated=30.7 | Source=8.7
+----------------------------------------
+Company: PNB | Year: Mar 2024 | Metric: ROE
+Difference: 52.6% | Category: Formula Difference
+👉 PNB | Mar 2024 | ROE mismatch | Calculated=61.3 | Source=8.7
+----------------------------------------
+Company: POWERGRID | Year: Mar 2014 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 POWERGRID | Mar 2014 | ROE mismatch | Calculated=13.1 | Source=19.0
+----------------------------------------
+Company: POWERGRID | Year: Mar 2015 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 POWERGRID | Mar 2015 | ROE mismatch | Calculated=13.1 | Source=19.0
+----------------------------------------
+Company: POWERGRID | Year: Mar 2016 | Metric: ROE
+Difference: 5.4% | Category: Formula Difference
+👉 POWERGRID | Mar 2016 | ROE mismatch | Calculated=13.6 | Source=19.0
+----------------------------------------
+Company: RECLTD | Year: Mar 2018 | Metric: ROE
+Difference: 8.5% | Category: Formula Difference
+👉 RECLTD | Mar 2018 | ROE mismatch | Calculated=13.7 | Source=22.2
+----------------------------------------
+Company: RECLTD | Year: Mar 2019 | Metric: ROE
+Difference: 5.6% | Category: Formula Difference
+👉 RECLTD | Mar 2019 | ROE mismatch | Calculated=16.6 | Source=22.2
+----------------------------------------
+Company: RECLTD | Year: Mar 2020 | Metric: ROE
+Difference: 8.2% | Category: Formula Difference
+👉 RECLTD | Mar 2020 | ROE mismatch | Calculated=14.0 | Source=22.2
+----------------------------------------
+Company: SBILIFE | Year: Mar 2013 | Metric: ROE
+Difference: 11.0% | Category: Formula Difference
+👉 SBILIFE | Mar 2013 | ROE mismatch | Calculated=23.0 | Source=12.0
+----------------------------------------
+Company: SBILIFE | Year: Mar 2014 | Metric: ROE
+Difference: 9.7% | Category: Formula Difference
+👉 SBILIFE | Mar 2014 | ROE mismatch | Calculated=21.7 | Source=12.0
+----------------------------------------
+Company: SBILIFE | Year: Mar 2015 | Metric: ROE
+Difference: 8.1% | Category: Formula Difference
+👉 SBILIFE | Mar 2015 | ROE mismatch | Calculated=20.1 | Source=12.0
+----------------------------------------
+Company: SBILIFE | Year: Mar 2016 | Metric: ROE
+Difference: 5.8% | Category: Formula Difference
+👉 SBILIFE | Mar 2016 | ROE mismatch | Calculated=17.8 | Source=12.0
+----------------------------------------
+Company: SBILIFE | Year: Mar 2017 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 SBILIFE | Mar 2017 | ROE mismatch | Calculated=17.2 | Source=12.0
+----------------------------------------
+Company: SBILIFE | Year: Mar 2018 | Metric: ROE
+Difference: 5.6% | Category: Formula Difference
+👉 SBILIFE | Mar 2018 | ROE mismatch | Calculated=17.6 | Source=12.0
+----------------------------------------
+Company: SBILIFE | Year: Mar 2019 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 SBILIFE | Mar 2019 | ROE mismatch | Calculated=17.5 | Source=12.0
+----------------------------------------
+Company: SHREECEM | Year: Jun 2013 | Metric: ROE
+Difference: 13.9% | Category: Formula Difference
+👉 SHREECEM | Jun 2013 | ROE mismatch | Calculated=26.1 | Source=12.2
+----------------------------------------
+Company: SHREECEM | Year: Mar 2017 | Metric: ROE
+Difference: 5.2% | Category: Formula Difference
+👉 SHREECEM | Mar 2017 | ROE mismatch | Calculated=17.4 | Source=12.2
+----------------------------------------
+Company: SHRIRAMFIN | Year: Mar 2022 | Metric: ROE
+Difference: 5.5% | Category: Formula Difference
+👉 SHRIRAMFIN | Mar 2022 | ROE mismatch | Calculated=10.4 | Source=15.9
+----------------------------------------
+Company: SIEMENS | Year: Sep 2014 | Metric: ROE
+Difference: 5.3% | Category: Formula Difference
+👉 SIEMENS | Sep 2014 | ROE mismatch | Calculated=13.8 | Source=19.1
+----------------------------------------
+Company: SIEMENS | Year: Sep 2016 | Metric: ROE
+Difference: 23.7% | Category: Formula Difference
+👉 SIEMENS | Sep 2016 | ROE mismatch | Calculated=42.8 | Source=19.1
+----------------------------------------
+Company: SIEMENS | Year: Sep 2018 | Metric: ROE
+Difference: 8.2% | Category: Formula Difference
+👉 SIEMENS | Sep 2018 | ROE mismatch | Calculated=10.9 | Source=19.1
+----------------------------------------
+Company: SIEMENS | Year: Sep 2019 | Metric: ROE
+Difference: 7.0% | Category: Formula Difference
+👉 SIEMENS | Sep 2019 | ROE mismatch | Calculated=12.1 | Source=19.1
+----------------------------------------
+Company: SIEMENS | Year: Sep 2020 | Metric: ROE
+Difference: 11.0% | Category: Formula Difference
+👉 SIEMENS | Sep 2020 | ROE mismatch | Calculated=8.1 | Source=19.1
+----------------------------------------
+Company: SIEMENS | Year: Sep 2021 | Metric: ROE
+Difference: 8.6% | Category: Formula Difference
+👉 SIEMENS | Sep 2021 | ROE mismatch | Calculated=10.5 | Source=19.1
+----------------------------------------
+Company: SIEMENS | Year: Sep 2022 | Metric: ROE
+Difference: 5.8% | Category: Formula Difference
+👉 SIEMENS | Sep 2022 | ROE mismatch | Calculated=13.3 | Source=19.1
+----------------------------------------
+Company: SUNPHARMA | Year: Mar 2013 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 SUNPHARMA | Mar 2013 | ROE mismatch | Calculated=23.1 | Source=16.7
+----------------------------------------
+Company: SUNPHARMA | Year: Mar 2018 | Metric: ROE
+Difference: 10.1% | Category: Formula Difference
+👉 SUNPHARMA | Mar 2018 | ROE mismatch | Calculated=6.6 | Source=16.7
+----------------------------------------
+Company: SUNPHARMA | Year: Mar 2019 | Metric: ROE
+Difference: 9.0% | Category: Formula Difference
+👉 SUNPHARMA | Mar 2019 | ROE mismatch | Calculated=7.7 | Source=16.7
+----------------------------------------
+Company: SUNPHARMA | Year: Mar 2020 | Metric: ROE
+Difference: 7.5% | Category: Formula Difference
+👉 SUNPHARMA | Mar 2020 | ROE mismatch | Calculated=9.2 | Source=16.7
+----------------------------------------
+Company: SUNPHARMA | Year: Mar 2021 | Metric: ROE
+Difference: 11.8% | Category: Formula Difference
+👉 SUNPHARMA | Mar 2021 | ROE mismatch | Calculated=4.9 | Source=16.7
+----------------------------------------
+Company: SUNPHARMA | Year: Mar 2022 | Metric: ROE
+Difference: 9.6% | Category: Formula Difference
+👉 SUNPHARMA | Mar 2022 | ROE mismatch | Calculated=7.1 | Source=16.7
+----------------------------------------
+Company: TATACONSUM | Year: Mar 2016 | Metric: ROE
+Difference: 8.9% | Category: Formula Difference
+👉 TATACONSUM | Mar 2016 | ROE mismatch | Calculated=-0.6 | Source=8.3
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2013 | Metric: ROE
+Difference: 22.9% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2013 | ROE mismatch | Calculated=26.5 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2014 | Metric: ROE
+Difference: 28.0% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2014 | ROE mismatch | Calculated=21.4 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2015 | Metric: ROE
+Difference: 24.4% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2015 | ROE mismatch | Calculated=25.0 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2016 | Metric: ROE
+Difference: 34.6% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2016 | ROE mismatch | Calculated=14.8 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2017 | Metric: ROE
+Difference: 36.4% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2017 | ROE mismatch | Calculated=13.0 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2018 | Metric: ROE
+Difference: 39.9% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2018 | ROE mismatch | Calculated=9.5 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2019 | Metric: ROE
+Difference: 97.1% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2019 | ROE mismatch | Calculated=-47.7 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2020 | Metric: ROE
+Difference: 68.4% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2020 | ROE mismatch | Calculated=-19.0 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2021 | Metric: ROE
+Difference: 73.6% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2021 | ROE mismatch | Calculated=-24.2 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2022 | Metric: ROE
+Difference: 74.8% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2022 | ROE mismatch | Calculated=-25.4 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2023 | Metric: ROE
+Difference: 43.5% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2023 | ROE mismatch | Calculated=5.9 | Source=49.4
+----------------------------------------
+Company: TATAMOTORS | Year: Mar 2024 | Metric: ROE
+Difference: 11.9% | Category: Formula Difference
+👉 TATAMOTORS | Mar 2024 | ROE mismatch | Calculated=37.5 | Source=49.4
+----------------------------------------
+Company: TATAPOWER | Year: Mar 2013 | Metric: ROE
+Difference: 10.3% | Category: Formula Difference
+👉 TATAPOWER | Mar 2013 | ROE mismatch | Calculated=1.0 | Source=11.3
+----------------------------------------
+Company: TATAPOWER | Year: Mar 2014 | Metric: ROE
+Difference: 11.2% | Category: Formula Difference
+👉 TATAPOWER | Mar 2014 | ROE mismatch | Calculated=0.1 | Source=11.3
+----------------------------------------
+Company: TATAPOWER | Year: Mar 2015 | Metric: ROE
+Difference: 8.1% | Category: Formula Difference
+👉 TATAPOWER | Mar 2015 | ROE mismatch | Calculated=3.2 | Source=11.3
+----------------------------------------
+Company: TATASTEEL | Year: Mar 2013 | Metric: ROE
+Difference: 27.8% | Category: Formula Difference
+👉 TATASTEEL | Mar 2013 | ROE mismatch | Calculated=-21.3 | Source=6.5
+----------------------------------------
+Company: TATASTEEL | Year: Mar 2015 | Metric: ROE
+Difference: 19.1% | Category: Formula Difference
+👉 TATASTEEL | Mar 2015 | ROE mismatch | Calculated=-12.6 | Source=6.5
+----------------------------------------
+Company: TATASTEEL | Year: Mar 2016 | Metric: ROE
+Difference: 7.7% | Category: Formula Difference
+👉 TATASTEEL | Mar 2016 | ROE mismatch | Calculated=-1.1 | Source=6.5
+----------------------------------------
+Company: TATASTEEL | Year: Mar 2017 | Metric: ROE
+Difference: 17.6% | Category: Formula Difference
+👉 TATASTEEL | Mar 2017 | ROE mismatch | Calculated=-11.0 | Source=6.5
+----------------------------------------
+Company: TATASTEEL | Year: Mar 2018 | Metric: ROE
+Difference: 22.6% | Category: Formula Difference
+👉 TATASTEEL | Mar 2018 | ROE mismatch | Calculated=29.1 | Source=6.5
+----------------------------------------
+Company: TATASTEEL | Year: Mar 2019 | Metric: ROE
+Difference: 6.7% | Category: Formula Difference
+👉 TATASTEEL | Mar 2019 | ROE mismatch | Calculated=13.2 | Source=6.5
+----------------------------------------
+Company: TATASTEEL | Year: Mar 2022 | Metric: ROE
+Difference: 29.9% | Category: Formula Difference
+👉 TATASTEEL | Mar 2022 | ROE mismatch | Calculated=36.5 | Source=6.5
+----------------------------------------
+Company: TATASTEEL | Year: Mar 2024 | Metric: ROE
+Difference: 11.9% | Category: Formula Difference
+👉 TATASTEEL | Mar 2024 | ROE mismatch | Calculated=-5.3 | Source=6.5
+----------------------------------------
+Company: TCS | Year: Mar 2013 | Metric: ROE
+Difference: 36.0% | Category: Version Difference
+👉 TCS | Mar 2013 | ROE mismatch | Calculated=36.5 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2014 | Metric: ROE
+Difference: 38.8% | Category: Version Difference
+👉 TCS | Mar 2014 | ROE mismatch | Calculated=39.3 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2015 | Metric: ROE
+Difference: 39.1% | Category: Version Difference
+👉 TCS | Mar 2015 | ROE mismatch | Calculated=39.6 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2016 | Metric: ROE
+Difference: 33.7% | Category: Version Difference
+👉 TCS | Mar 2016 | ROE mismatch | Calculated=34.2 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2017 | Metric: ROE
+Difference: 30.1% | Category: Version Difference
+👉 TCS | Mar 2017 | ROE mismatch | Calculated=30.6 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2018 | Metric: ROE
+Difference: 29.9% | Category: Version Difference
+👉 TCS | Mar 2018 | ROE mismatch | Calculated=30.4 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2019 | Metric: ROE
+Difference: 34.8% | Category: Version Difference
+👉 TCS | Mar 2019 | ROE mismatch | Calculated=35.3 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2020 | Metric: ROE
+Difference: 38.0% | Category: Version Difference
+👉 TCS | Mar 2020 | ROE mismatch | Calculated=38.6 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2021 | Metric: ROE
+Difference: 37.2% | Category: Version Difference
+👉 TCS | Mar 2021 | ROE mismatch | Calculated=37.7 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2022 | Metric: ROE
+Difference: 42.6% | Category: Version Difference
+👉 TCS | Mar 2022 | ROE mismatch | Calculated=43.1 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2023 | Metric: ROE
+Difference: 46.3% | Category: Version Difference
+👉 TCS | Mar 2023 | ROE mismatch | Calculated=46.8 | Source=0.5
+----------------------------------------
+Company: TCS | Year: Mar 2024 | Metric: ROE
+Difference: 50.4% | Category: Version Difference
+👉 TCS | Mar 2024 | ROE mismatch | Calculated=50.9 | Source=0.5
+----------------------------------------
+Company: TECHM | Year: Mar 2013 | Metric: ROE
+Difference: 15.5% | Category: Formula Difference
+👉 TECHM | Mar 2013 | ROE mismatch | Calculated=24.1 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2014 | Metric: ROE
+Difference: 24.7% | Category: Formula Difference
+👉 TECHM | Mar 2014 | ROE mismatch | Calculated=33.3 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2015 | Metric: ROE
+Difference: 13.1% | Category: Formula Difference
+👉 TECHM | Mar 2015 | ROE mismatch | Calculated=21.7 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2016 | Metric: ROE
+Difference: 12.1% | Category: Formula Difference
+👉 TECHM | Mar 2016 | ROE mismatch | Calculated=20.7 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2017 | Metric: ROE
+Difference: 8.7% | Category: Formula Difference
+👉 TECHM | Mar 2017 | ROE mismatch | Calculated=17.3 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2018 | Metric: ROE
+Difference: 11.5% | Category: Formula Difference
+👉 TECHM | Mar 2018 | ROE mismatch | Calculated=20.1 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2019 | Metric: ROE
+Difference: 12.5% | Category: Formula Difference
+👉 TECHM | Mar 2019 | ROE mismatch | Calculated=21.1 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2020 | Metric: ROE
+Difference: 9.2% | Category: Formula Difference
+👉 TECHM | Mar 2020 | ROE mismatch | Calculated=17.9 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2021 | Metric: ROE
+Difference: 8.9% | Category: Formula Difference
+👉 TECHM | Mar 2021 | ROE mismatch | Calculated=17.5 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2022 | Metric: ROE
+Difference: 12.3% | Category: Formula Difference
+👉 TECHM | Mar 2022 | ROE mismatch | Calculated=20.9 | Source=8.6
+----------------------------------------
+Company: TECHM | Year: Mar 2023 | Metric: ROE
+Difference: 8.8% | Category: Formula Difference
+👉 TECHM | Mar 2023 | ROE mismatch | Calculated=17.4 | Source=8.6
+----------------------------------------
+Company: TITAN | Year: Mar 2015 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 TITAN | Mar 2015 | ROE mismatch | Calculated=26.5 | Source=32.9
+----------------------------------------
+Company: TITAN | Year: Mar 2016 | Metric: ROE
+Difference: 13.7% | Category: Formula Difference
+👉 TITAN | Mar 2016 | ROE mismatch | Calculated=19.2 | Source=32.9
+----------------------------------------
+Company: TITAN | Year: Mar 2017 | Metric: ROE
+Difference: 16.4% | Category: Formula Difference
+👉 TITAN | Mar 2017 | ROE mismatch | Calculated=16.5 | Source=32.9
+----------------------------------------
+Company: TITAN | Year: Mar 2018 | Metric: ROE
+Difference: 11.2% | Category: Formula Difference
+👉 TITAN | Mar 2018 | ROE mismatch | Calculated=21.7 | Source=32.9
+----------------------------------------
+Company: TITAN | Year: Mar 2019 | Metric: ROE
+Difference: 10.0% | Category: Formula Difference
+👉 TITAN | Mar 2019 | ROE mismatch | Calculated=22.9 | Source=32.9
+----------------------------------------
+Company: TITAN | Year: Mar 2020 | Metric: ROE
+Difference: 10.5% | Category: Formula Difference
+👉 TITAN | Mar 2020 | ROE mismatch | Calculated=22.4 | Source=32.9
+----------------------------------------
+Company: TITAN | Year: Mar 2021 | Metric: ROE
+Difference: 19.9% | Category: Formula Difference
+👉 TITAN | Mar 2021 | ROE mismatch | Calculated=13.0 | Source=32.9
+----------------------------------------
+Company: TITAN | Year: Mar 2022 | Metric: ROE
+Difference: 9.3% | Category: Formula Difference
+👉 TITAN | Mar 2022 | ROE mismatch | Calculated=23.6 | Source=32.9
+----------------------------------------
+Company: TITAN | Year: Mar 2023 | Metric: ROE
+Difference: 5.3% | Category: Formula Difference
+👉 TITAN | Mar 2023 | ROE mismatch | Calculated=27.6 | Source=32.9
+----------------------------------------
+Company: TORNTPHARM | Year: Mar 2013 | Metric: ROE
+Difference: 6.4% | Category: Formula Difference
+👉 TORNTPHARM | Mar 2013 | ROE mismatch | Calculated=30.6 | Source=24.2
+----------------------------------------
+Company: TORNTPHARM | Year: Mar 2014 | Metric: ROE
+Difference: 10.7% | Category: Formula Difference
+👉 TORNTPHARM | Mar 2014 | ROE mismatch | Calculated=34.9 | Source=24.2
+----------------------------------------
+Company: TORNTPHARM | Year: Mar 2015 | Metric: ROE
+Difference: 5.9% | Category: Formula Difference
+👉 TORNTPHARM | Mar 2015 | ROE mismatch | Calculated=30.1 | Source=24.2
+----------------------------------------
+Company: TORNTPHARM | Year: Mar 2016 | Metric: ROE
+Difference: 25.4% | Category: Formula Difference
+👉 TORNTPHARM | Mar 2016 | ROE mismatch | Calculated=49.6 | Source=24.2
+----------------------------------------
+Company: TORNTPHARM | Year: Mar 2018 | Metric: ROE
+Difference: 9.5% | Category: Formula Difference
+👉 TORNTPHARM | Mar 2018 | ROE mismatch | Calculated=14.7 | Source=24.2
+----------------------------------------
+Company: TORNTPHARM | Year: Mar 2019 | Metric: ROE
+Difference: 15.0% | Category: Formula Difference
+👉 TORNTPHARM | Mar 2019 | ROE mismatch | Calculated=9.2 | Source=24.2
+----------------------------------------
+Company: TORNTPHARM | Year: Mar 2022 | Metric: ROE
+Difference: 11.1% | Category: Formula Difference
+👉 TORNTPHARM | Mar 2022 | ROE mismatch | Calculated=13.1 | Source=24.2
+----------------------------------------
+Company: TRENT | Year: Mar 2013 | Metric: ROE
+Difference: 29.4% | Category: Formula Difference
+👉 TRENT | Mar 2013 | ROE mismatch | Calculated=-2.2 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2014 | Metric: ROE
+Difference: 29.1% | Category: Formula Difference
+👉 TRENT | Mar 2014 | ROE mismatch | Calculated=-1.9 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2015 | Metric: ROE
+Difference: 18.1% | Category: Formula Difference
+👉 TRENT | Mar 2015 | ROE mismatch | Calculated=9.1 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2016 | Metric: ROE
+Difference: 23.4% | Category: Formula Difference
+👉 TRENT | Mar 2016 | ROE mismatch | Calculated=3.8 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2017 | Metric: ROE
+Difference: 21.7% | Category: Formula Difference
+👉 TRENT | Mar 2017 | ROE mismatch | Calculated=5.5 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2018 | Metric: ROE
+Difference: 21.7% | Category: Formula Difference
+👉 TRENT | Mar 2018 | ROE mismatch | Calculated=5.5 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2019 | Metric: ROE
+Difference: 21.4% | Category: Formula Difference
+👉 TRENT | Mar 2019 | ROE mismatch | Calculated=5.8 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2020 | Metric: ROE
+Difference: 22.8% | Category: Formula Difference
+👉 TRENT | Mar 2020 | ROE mismatch | Calculated=4.4 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2021 | Metric: ROE
+Difference: 35.0% | Category: Formula Difference
+👉 TRENT | Mar 2021 | ROE mismatch | Calculated=-7.8 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2022 | Metric: ROE
+Difference: 25.7% | Category: Formula Difference
+👉 TRENT | Mar 2022 | ROE mismatch | Calculated=1.5 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2023 | Metric: ROE
+Difference: 12.0% | Category: Formula Difference
+👉 TRENT | Mar 2023 | ROE mismatch | Calculated=15.2 | Source=27.2
+----------------------------------------
+Company: TRENT | Year: Mar 2024 | Metric: ROE
+Difference: 9.1% | Category: Formula Difference
+👉 TRENT | Mar 2024 | ROE mismatch | Calculated=36.3 | Source=27.2
+----------------------------------------

@@ -132,3 +132,14 @@ Completed:
 * Resolved database indexing issues by implementing standardized text cleaning (`strip()`) and LEFT join strategies.
 * Successfully generated the required downstream analytical asset `output/capital_allocation.csv`.
 * Replaced and updated the centralized SQLite `financial_ratios` table, securing a full target footprint of 1,276 rows.
+
+## 📅 Sprint 2 - Day 13: Bank ROCE Carve-Out & Edge-Case Logging
+
+### ✅ Completed Tasks:
+* **Sector-Specific Warnings:** Implemented custom logic to suppress Debt-to-Equity (D/E) warning flags for the Financial sector (Banks, NBFCs, Insurance) where high leverage is structural.
+* **ROCE Cross-Verification:** Developed an automated engine to validate calculated ROCE metrics against `roce_percentage` from `companies.xlsx`.
+* **ROE Validation Loop:** Built a secondary audit loop comparing calculated ROE values directly against `roe_percentage` from the reference source.
+* **Automated Anomaly Detection:** Programmed variance tracking that captures and logs any metric discrepancies exceeding the absolute 5% threshold boundary.
+* **Smart Categorization:** Implemented dynamic classification to bucket anomalies into distinct error types (`Formula Difference`, `Source Data Difference`, `Version Difference`).
+* **UTF-8 Log File Generation:** Configured a clean text streaming layer to output fully structured discrepancy reports inside `output/ratio_edge_cases.log`.
+* **Live Terminal Reporting:** Successfully tested and verified the execution engine with real-time console streams tracking 531 total logged anomalies.
