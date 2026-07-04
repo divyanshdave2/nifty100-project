@@ -2122,3 +2122,5 @@ Company: TRENT | Year: Mar 2024 | Metric: ROE
 Difference: 9.1% | Category: Formula Difference
 👉 TRENT | Mar 2024 | ROE mismatch | Calculated=36.3 | Source=27.2
 ----------------------------------------
+2026-07-04 09:44:15,116 - WARNING - OPM Mismatch for Anomaly Inc (2026): Calculated=30.00%, Pre-existing=10.00%
+2026-07-04 09:54:45,724 - WARNING - OPM Mismatch for Anomaly Inc (2026): Calculated=30.00%, Pre-existing=10.00%
