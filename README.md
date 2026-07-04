@@ -152,3 +152,15 @@ Completed Tasks:
 * Screener Engine Validation: Ran a performance filter ($ROE > 15\%$ and $D/E < 1$) which safely isolated 60 unique target companies across 414 historical rows.
 * Demo Ready Status: Configured a dataset preview script displaying 14+ calculated financial indicators for sample companies to facilitate the final team lead review.
 * Sprint 2 Retrospective: Finalized code adjustments and documented business rule decisions for the repository knowledge base.
+
+
+Sprint 3 - Day 15: Streamlit Dashboard Mockup & Core Layout Design
+Completed Tasks:
+
+* UI Architecture Initialization: Configured a dedicated Streamlit application footprint (`src/app.py`) for frontend layer mapping.
+* Multi-Page Routing Framework: Programmed a clean sidebar navigation system supporting three integrated interface layers:
+  * `Home / Overview`: Core market dynamic summary cards.
+  * `Company Deep-Dive`: Granular organizational breakdown sheets.
+  * `Screener Engine`: Dynamic metric constraint parameters.
+* Airtight Session Caching: Integrated `@st.cache_resource` and `@st.cache_data` directives to optimize database connection handling and ensure zero-lag template state re-runs.
+* Repository Deployment: Successfully localized, clean-tested, and synchronized the initial running frontend code tree to the GitHub main branch.
