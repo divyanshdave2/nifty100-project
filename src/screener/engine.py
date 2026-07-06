@@ -7,6 +7,8 @@ class NiftyScreenerEngine:
     def __init__(self, db_path="database/nifty100.db"):
         self.db_path = db_path
         self.df = self._load_data_layer()
+        # Compute dynamic scores immediately upon loading data layer for downstream screening
+        self._calculate_composite_quality_scores()
 
     def _load_data_layer(self):
         if not os.path.exists(self.db_path):
@@ -23,14 +25,17 @@ class NiftyScreenerEngine:
         else:
             df['clean_year'] = 2024.0
 
+        # Base Metric Alias Handlers
         alias_dict = {
-            'pe': ['pe_ratio', 'p_e', 'pe', 'p/e', 'price_to_earnings'],
-            'pb': ['pb_ratio', 'p_b', 'pb', 'p/b', 'price_to_book'],
-            'de': ['debt_to_equity', 'd_e', 'de', 'd/e', 'debt_equity_ratio'],
-            'roe': ['return_on_equity_pct', 'roe', 'return_on_equity', 'roe_pct'],
-            'fcf': ['free_cash_flow_cr', 'free_cash_flow', 'fcf', 'fcf_cr'],
-            'rev_cagr': ['revenue_cagr_5yr', 'revenue_cagr', 'rev_cagr_5yr'],
-            'pat_cagr': ['pat_cagr_5yr', 'pat_cagr', 'pat_cagr_5yr'],
+            'pe': ['pe_ratio', 'p_e', 'pe', 'p/e'],
+            'pb': ['pb_ratio', 'p_b', 'pb', 'p/b'],
+            'de': ['debt_to_equity', 'd_e', 'de', 'd/e'],
+            'roe': ['return_on_equity_pct', 'roe', 'return_on_equity'],
+            'roce': ['return_on_capital_employed_pct', 'roce', 'return_on_capital_employed'],
+            'npm': ['net_profit_margin_pct', 'npm', 'net_profit_margin'],
+            'fcf': ['free_cash_flow_cr', 'fcf', 'free_cash_flow'],
+            'rev_cagr': ['revenue_cagr_5yr', 'revenue_cagr', 'revenue_cagr_10yr'],
+            'pat_cagr': ['pat_cagr_5yr', 'pat_cagr', 'pat_cagr_10yr'],
             'div_yield': ['dividend_yield_pct', 'dividend_yield', 'div_yield']
         }
         
@@ -43,13 +48,9 @@ class NiftyScreenerEngine:
                 if target not in df.columns:
                     df[target] = 0.0
 
-        numeric_targets = ['roe', 'de', 'fcf', 'rev_cagr', 'pat_cagr', 'pe', 'pb', 'div_yield']
+        numeric_targets = ['roe', 'roce', 'npm', 'de', 'fcf', 'rev_cagr', 'pat_cagr', 'pe', 'pb', 'div_yield']
         for col in numeric_targets:
             df[col] = pd.to_numeric(df[col], errors='coerce').fillna(0.0)
-
-        if 'interest_coverage_ratio' in df.columns:
-            df['interest_coverage_ratio'] = pd.to_numeric(df['interest_coverage_ratio'], errors='coerce').fillna(float('inf'))
-            df.loc[df['de'] == 0, 'interest_coverage_ratio'] = float('inf')
             
         return df
 
@@ -59,6 +60,67 @@ class NiftyScreenerEngine:
             if name in df.columns:
                 return name
         return None
+
+    def _winsorize_and_scale(self, series):
+        """Day 17 Component: P10/P90 Winsorization and 0-100 scaling transformation"""
+        if series.empty or series.nunique() <= 1:
+            return pd.Series(50.0, index=series.index)
+        
+        p10 = np.percentile(series, 10)
+        p90 = np.percentile(series, 90)
+        
+        # Cap extremes at 10th and 90th percentiles
+        capped = np.clip(series, p10, p90)
+        
+        # Scale to 0-100
+        min_v, max_v = capped.min(), capped.max()
+        if max_v == min_v:
+            return pd.Series(50.0, index=series.index)
+            
+        return ((capped - min_v) / (max_v - min_v)) * 100.0
+
+    def _calculate_composite_quality_scores(self):
+        """Day 17 Component: Computational Weighting Matrix Strategy"""
+        df = self.df
+        sector_col = self._get_sector_column(df)
+        
+        # 1. Setup proxy markers for calculation components missing in direct raw tables
+        df['fcf_positive_flag'] = (df['fcf'] > 0).astype(float) * 100.0
+        df['cfo_pat_ratio'] = df['fcf'] # standard data layer fallback proxy
+        df['icr_score'] = 100.0 - np.clip(df['de'] * 20, 0, 100) # Proxy inverse logic for leverage stability
+
+        # 2. Winsorize and Scale metrics relative to broad sector peers
+        metrics_to_scale = ['roe', 'roce', 'npm', 'rev_cagr', 'pat_cagr', 'fcf_positive_flag', 'cfo_pat_ratio', 'de', 'icr_score']
+        
+        scaled_features = pd.DataFrame(index=df.index)
+        
+        if sector_col:
+            for metric in metrics_to_scale:
+                # Groupby sector relative processing
+                if metric == 'de': # lower is better transformation
+                    scaled_features[f's_{metric}'] = df.groupby(sector_col)[metric].transform(lambda x: 100.0 - self._winsorize_and_scale(x))
+                else:
+                    scaled_features[f's_{metric}'] = df.groupby(sector_col)[metric].transform(self._winsorize_and_scale)
+        else:
+            for metric in metrics_to_scale:
+                if metric == 'de':
+                    scaled_features[f's_{metric}'] = 100.0 - self._winsorize_and_scale(df[metric])
+                else:
+                    scaled_features[f's_{metric}'] = self._winsorize_and_scale(df[metric])
+
+        # 3. Apply Explicit Structural Dimension Weights Mapping
+        # 35% Profitability
+        profitability_score = (scaled_features['s_roe'] * 0.15) + (scaled_features['s_roce'] * 0.10) + (scaled_features['s_npm'] * 0.10)
+        # 30% Cash Quality
+        cash_quality_score = (scaled_features['s_pat_cagr'] * 0.15) + (scaled_features['s_cfo_pat_ratio'] * 0.10) + (scaled_features['s_fcf_positive_flag'] * 0.05)
+        # 20% Growth
+        growth_score = (scaled_features['s_rev_cagr'] * 0.10) + (scaled_features['s_pat_cagr'] * 0.10)
+        # 15% Leverage
+        leverage_score = (scaled_features['s_de'] * 0.10) + (scaled_features['s_icr_score'] * 0.05)
+
+        # Final Composite Aggregation
+        df['composite_quality_score'] = (profitability_score + cash_quality_score + growth_score + leverage_score) / 0.70
+        df['composite_quality_score'] = df['composite_quality_score'].clip(0.0, 100.0).round(2)
 
     def filter_by_custom_bounds(self, filter_params: dict):
         if self.df.empty:
@@ -83,6 +145,10 @@ class NiftyScreenerEngine:
                 else:
                     df_latest = df_latest[df_latest[key] >= threshold]
 
+        # Always sort outputs by composite quality score descending for Day 17 output mandate
+        if 'composite_quality_score' in df_latest.columns:
+            df_latest = df_latest.sort_values(by='composite_quality_score', ascending=False)
+
         return df_latest
 
     def run_preset_screener_day16(self, preset_name: str):
@@ -94,43 +160,38 @@ class NiftyScreenerEngine:
 
         if preset_name == "Quality Compounder":
             cond = (df_latest['roe'] > 15.0) & ((df_latest['de'] < 1.0) | is_financial) & (df_latest['fcf'] > 0) & (df_latest['rev_cagr'] > 10.0)
-            return df_latest[cond]
-
+            res = df_latest[cond]
         elif preset_name == "Value Pick":
             cond = (df_latest['pe'] > 0) & (df_latest['pe'] < 30.0) & (df_latest['pb'] < 4.0)
-            return df_latest[cond]
-
+            res = df_latest[cond]
         elif preset_name == "Growth Accelerator":
             cond = (df_latest['pat_cagr'] > 20.0) & (df_latest['rev_cagr'] > 15.0) & ((df_latest['de'] < 2.0) | is_financial)
-            return df_latest[cond]
-
+            res = df_latest[cond]
         elif preset_name == "Dividend Champion":
             cond = (df_latest['div_yield'] > 1.5) & (df_latest['fcf'] > 0)
-            return df_latest[cond]
-
+            res = df_latest[cond]
         elif preset_name == "Debt-Free Blue Chip":
             cond = (df_latest['de'] == 0) & (df_latest['roe'] > 12.0)
-            return df_latest[cond]
-
+            res = df_latest[cond]
         elif preset_name == "Turnaround Watch":
             cond = (df_latest['rev_cagr'] > 10.0) & (df_latest['fcf'] > 0)
-            return df_latest[cond]
-        
-        return pd.DataFrame()
+            res = df_latest[cond]
+        else:
+            return pd.DataFrame()
+
+        if 'composite_quality_score' in res.columns:
+            res = res.sort_values(by='composite_quality_score', ascending=False)
+        return res
 
 if __name__ == "__main__":
     engine = NiftyScreenerEngine()
     
     print("\n" + "="*50)
-    print(" 🚀 EXECUTION VERIFICATION: DAY 15 & DAY 16 ENGINES ")
+    print(" 🚀 EXECUTION VERIFICATION: DAY 17 COMPOSITE SCORING ENGINE ")
     print("="*50)
     
-    sample_criteria = {'roe': 15.0}
-    custom_res = engine.filter_by_custom_bounds(sample_criteria)
-    print(f"📊 Day 15 Core: Found {len(custom_res)} companies matching sample criteria.")
-    
-    presets = ["Quality Compounder", "Value Pick", "Growth Accelerator", "Dividend Champion", "Debt-Free Blue Chip", "Turnaround Watch"]
-    for p in presets:
-        preset_res = engine.run_preset_screener_day16(p)
-        count = len(preset_res)
-        print(f"🔹 Day 16 Preset '{p}': Matches {count} corporate rows.")
+    # Check random samples for scores
+    latest_year = engine.df['clean_year'].max()
+    sample_view = engine.df[engine.df['clean_year'] == latest_year][['company_id', 'roe', 'de', 'composite_quality_score']].head(5)
+    print("📋 Sample Evaluated Entities with Winsorized Quality Scores:")
+    print(sample_view.to_string(index=False))
