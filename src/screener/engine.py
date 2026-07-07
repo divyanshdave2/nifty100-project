@@ -183,6 +183,50 @@ class NiftyScreenerEngine:
             res = res.sort_values(by='composite_quality_score', ascending=False)
         return res
 
+    def export_all_presets_to_excel(self, output_path="output/screener_output.xlsx"):
+        """Day 17 Component: Generates multi-sheet Excel output with conditional color-coding"""
+        from openpyxl.styles import PatternFill
+        
+        # Ensure 'output/' directory structure exists safely
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        
+        presets = ["Quality Compounder", "Value Pick", "Growth Accelerator", "Dividend Champion", "Debt-Free Blue Chip", "Turnaround Watch"]
+        
+        with pd.ExcelWriter(output_path, engine='openpyxl') as writer:
+            for p_name in presets:
+                df_res = self.run_preset_screener_day16(p_name)
+                
+                # Excel tab character limit safety rule (Max 31)
+                sheet_label = p_name[:31]
+                df_res.to_excel(writer, sheet_name=sheet_label, index=False)
+                
+                worksheet = writer.sheets[sheet_label]
+                
+                # Custom Soft Palette Fills
+                green_fill = PatternFill(start_color="C6EFCE", end_color="C6EFCE", fill_type="solid")
+                red_fill = PatternFill(start_color="FFC7CE", end_color="FFC7CE", fill_type="solid")
+                
+                # Map headers dynamically to target correct column locations
+                col_headers = [cell.value for cell in worksheet[1]]
+                roe_idx = col_headers.index('roe') + 1 if 'roe' in col_headers else None
+                de_idx = col_headers.index('de') + 1 if 'de' in col_headers else None
+                
+                # Inject styling row-by-row matching conditional presets
+                for row in range(2, worksheet.max_row + 1):
+                    # 1. ROE formatting check
+                    if roe_idx:
+                        cell = worksheet.cell(row=row, column=roe_idx)
+                        if cell.value is not None and isinstance(cell.value, (int, float)):
+                            cell.fill = green_fill if cell.value >= 15.0 else red_fill
+                    
+                    # 2. D/E formatting check
+                    if de_idx:
+                        cell = worksheet.cell(row=row, column=de_idx)
+                        if cell.value is not None and isinstance(cell.value, (int, float)):
+                            cell.fill = green_fill if cell.value < 1.0 else red_fill
+
+        print(f"📊 Excel Generation: Successfully saved output sheets to '{output_path}' with color codes applied!")
+
 if __name__ == "__main__":
     engine = NiftyScreenerEngine()
     
@@ -195,3 +239,6 @@ if __name__ == "__main__":
     sample_view = engine.df[engine.df['clean_year'] == latest_year][['company_id', 'roe', 'de', 'composite_quality_score']].head(5)
     print("📋 Sample Evaluated Entities with Winsorized Quality Scores:")
     print(sample_view.to_string(index=False))
+
+    # Run the dynamic Excel exporter with color formatting
+    engine.export_all_presets_to_excel()

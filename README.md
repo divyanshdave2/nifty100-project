@@ -188,3 +188,11 @@ Completed Tasks:
   * 15% Capital Leverage Allocation (D/E and ICR inverse metrics)
 * Sector-Relative Normalization: Linked the scoring matrices with `groupby` mechanics on the `broad_sector` identifier, preventing cross-industry metric skewing.
 * Output Sorting Logic: Updated internal engines to enforce descending sorts on calculated composite quality scores across all presets and custom screeners.
+* Automated Excel Compilation: Generated the multi-preset `output/screener_output.xlsx` containing custom soft-palette cell coloring injection for threshold rules.
+
+
+Sprint 3 - Day 18: Peer Percentile Rankings Engine
+* Peer Group Analysis Engine: Developed a calculation pipeline within `src/analytics/peer.py` mapping structural percentiles across 10 target KPIs within 11 distinct peer blocks.
+* Inverse Metric Framework: Programmed custom directional adjustments for leverage calculations, enforcing an inverse rank formula ($1 - \text{PERCENT\_RANK}$) for Debt-to-Equity ($D/E$) ratios.
+* Unmapped Entities Graceful Bypass: Integrated fallback handling to identify companies without a peer group mapping, logging an analytical message without raising fatal program exceptions.
+* Persistent DB Layer Migration: Integrated dynamic truncation routines to refresh structural content inside SQLite's `peer_percentiles` datatable automatically.
