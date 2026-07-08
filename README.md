@@ -198,7 +198,7 @@ Sprint 3 - Day 18: Peer Percentile Rankings Engine
 * Persistent DB Layer Migration: Integrated dynamic truncation routines to refresh structural content inside SQLite's `peer_percentiles` datatable automatically.
 
 
-## 📅 Sprint 3 - Day 19: Multi-Axis Radar Visualization Engine
+Sprint 3 - Day 19: Multi-Axis Radar Visualization Engine
 * 8-Axis Geometry Core: Programmed structural data parsing pipelines inside `src/visualization/radar.py` to plot multi-dimensional performance layers across exactly 8 distinct financial parameters (`ROE`, `ROCE`, `NPM`, `D/E`, `FCF Score`, `PAT CAGR 5Y`, `Rev CAGR 5Y`, and `Composite Score`).
 * Double-Layered Data Mapping: Configured a dual-vector matplotlib interface plotting individual corporate data points as a shaded solid polygon alongside a clear dashed outline overlay mapping the respective peer group averages.
 * Graceful Benchmark Fallback: Deployed logical left-join parameters ensuring unmapped market companies (e.g., `VBL`) dynamically map against global Nifty 100 statistical benchmarks without throwing operational runtime exceptions.
