@@ -203,3 +203,11 @@ Sprint 3 - Day 19: Multi-Axis Radar Visualization Engine
 * Double-Layered Data Mapping: Configured a dual-vector matplotlib interface plotting individual corporate data points as a shaded solid polygon alongside a clear dashed outline overlay mapping the respective peer group averages.
 * Graceful Benchmark Fallback: Deployed logical left-join parameters ensuring unmapped market companies (e.g., `VBL`) dynamically map against global Nifty 100 statistical benchmarks without throwing operational runtime exceptions.
 * Automated Output Pipeline: Standardized localized PNG generation outputting files safely under the strict `{company_id}_radar.png` naming framework inside the target `reports/radar_charts/` directory structure.
+
+
+Sprint 3 - Day 20: Peer Comparison Excel Report
+
+* Multi-Sheet Architecture: Developed an automated compiler engine inside `src/analytics/report.py` that segregates corporate analysis into exactly 11 distinct peer group sheets within a single workbook.
+* Expanded Metrics Grid: Populated each individual sheet layout with comprehensive corporate metadata (Company ID and Company Name) alongside 20+ core financial metrics and their corresponding calculated peer percentile ranks.
+* Tri-Tier Color-Coding Fills: Injected automated cell-level formatting using strict threshold conditions ($\ge$ 75th percentile maps to soft green, 25th to 75th percentile to soft yellow, and $\le$ 25th percentile to soft red).
+* Benchmark & Summary Row Injection: Engineered custom rendering layers to highlight the primary benchmark company row using a gold/amber background fill, while embedding a rolling geometric `GROUP MEDIAN` summary calculation row across all metric parameters at the base of each workbook sheet.
