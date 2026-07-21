@@ -1,0 +1,43 @@
+company_id,field,raw_text
+id,Unnamed: 1,company_id
+id,Unnamed: 2,compounded_sales_growth
+id,Unnamed: 3,compounded_profit_growth
+id,Unnamed: 4,stock_price_cagr
+id,Unnamed: 5,roe
+1,Unnamed: 1,HDFCBANK
+10,Unnamed: 1,SBILIFE
+11,Unnamed: 1,SBILIFE
+12,Unnamed: 1,SBILIFE
+12,Unnamed: 2,TTM:            43%
+12,Unnamed: 3,TTM:                 18%
+12,Unnamed: 4,     1 Year:         -2%
+12,Unnamed: 5,Last Year:      12%
+13,Unnamed: 1,TCS
+14,Unnamed: 1,TCS
+15,Unnamed: 1,TCS
+16,Unnamed: 1,TCS
+16,Unnamed: 2,TTM:            5%             
+16,Unnamed: 3,TTM:                 8%
+16,Unnamed: 5,Last Year:       52%
+17,Unnamed: 1,WIPRO
+18,Unnamed: 1,WIPRO
+19,Unnamed: 1,WIPRO
+19,Unnamed: 4,      3 Years:      -1%
+2,Unnamed: 1,HDFCBANK
+20,Unnamed: 1,WIPRO
+20,Unnamed: 2,TTM:           -3%
+20,Unnamed: 3,TTM:                 1%
+20,Unnamed: 5,Last Year:       14%
+3,Unnamed: 1,HDFCBANK
+4,Unnamed: 1,HDFCBANK
+4,Unnamed: 2,TTM:            47%
+4,Unnamed: 3,TTM:                27%
+4,Unnamed: 5,Last Year:    17%
+5,Unnamed: 1,INFY
+6,Unnamed: 1,INFY
+7,Unnamed: 1,INFY
+8,Unnamed: 1,INFY
+8,Unnamed: 2,TTM:            3%
+8,Unnamed: 3,TTM:                 8%
+8,Unnamed: 5,Last Year:     32%
+9,Unnamed: 1,SBILIFE
