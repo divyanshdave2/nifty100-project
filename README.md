@@ -314,3 +314,43 @@ Click Drill-down: Kisi bhi pattern block par click karte hi screen ke neehe ek s
 Screen 8: Annual Reports Vault (08_reports.py)
 Layout Structure: Ek dynamic company document directory sheet jahan user corporate profile search karta hai. Search karte hi pichle saalon ke reports ki ek clean row-wise index list khul jaati hai.
 Compliance Links & Fallback Badges: Sahi files ke aage clickable hyperlinks hote hain jo seedhe official BSE Annual Report PDF par redirect karte hain. Agar koi link broken hai ya server se 404 response aata hai, toh wahan link ki jagah ek custom red badge render hota hai jispar likha hota hai: Report unavailable.
+
+
+Day 29: NLP Analysis Text Parser
+* Module: `src.nlp.parser`
+* Objective: Extract structured tabular insights from unstructured broker commentary and management text.
+* Key Tasks: Clean text artifacts, handle parsing exceptions, and export clean metrics.
+* Output: `output/analysis_parsed.csv`, `output/parse_failures.csv`
+
+Day 30: Auto Pros & Cons Generator
+* Module: `src.nlp.pros_cons_generator`
+* Objective: Implement rule-based NLP extraction to highlight key operational strengths and investment risks.
+* Key Tasks: Map financial threshold rules to generate concise bullet points for investment tearsheets.
+* Output: `output/pros_cons_generated.csv`
+
+Day 31: Cash Flow Quality & Distress Detection
+* Module: `src.analytics.cashflow_kpis`
+* Objective: Analyze 5-year cash flow quality, CapEx intensity, and distress indicators.
+* Key Tasks:
+  * Calculate CFO / PAT quality ratios and assign labels (*High Quality*, *Moderate*, *Accrual Risk*).
+  * Compute CapEx intensity (% of Sales) and classify capital requirements.
+  * Flag companies with potential distress ($CFO < 0$ and $CFF > 0$) or deleveraging trends ($CFF < 0$ and lower borrowings).
+* Output: `output/cashflow_intelligence.xlsx`, `output/distress_alerts.csv`
+
+Day 32: Capital Allocation Report & YoY Tracking
+* Module: `src.analytics.capital_allocation_report`
+* Objective: Track year-over-year changes in company capital allocation patterns.
+* Key Tasks: Compare current vs. prior year allocation models and capture strategy shifts.
+* Output: `output/pattern_changes.csv`
+
+Days 33 & 34: Batch PDF Tearsheet Generator
+* Module: `src.reports.batch_generation` & `src.reports.tearsheet`
+* Objective: Automate publication-ready 2-page PDF tearsheet creation for all 90+ companies using `ReportLab`.
+* Key Tasks: Dynamically layout financial KPIs, pros/cons, valuation charts, and allocation badges while handling edge cases for missing data.
+* Output: `reports/tearsheets/*.pdf` (90+ Company PDF Tearsheets)
+
+Day 35: Consolidated Portfolio Summary PDF
+* Module: `src.reports.portfolio_summary`
+* Objective: Compile an executive-level aggregate portfolio report.
+* Key Tasks: Tabulate company metrics, calculate YoY trend indicators (↑ / ↓ / →), and build a single unified multi-page summary PDF.
+* Output: `reports/portfolio/portfolio_summary.pdf`
