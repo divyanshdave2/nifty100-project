@@ -1,0 +1,94 @@
+company_id,cluster_id,cluster_name,distance_from_centroid
+id,2,Value Cyclicals,1.2678
+ABB,0,High-Quality Compounders,2.0491
+ADANIENSOL,3,Distressed or Turnaround,1.6389
+ADANIENT,3,Distressed or Turnaround,0.7127
+ADANIGREEN,4,Emerging Growth,1.5694
+ADANIPORTS,2,Value Cyclicals,1.71
+ADANIPOWER,4,Emerging Growth,1.8878
+AMBUJACEM,4,Emerging Growth,1.9209
+APOLLOHOSP,4,Emerging Growth,1.4222
+ASIANPAINT,0,High-Quality Compounders,1.7465
+ATGL,1,Defensive Dividend Payers,0.977
+AXISBANK,4,Emerging Growth,1.1691
+BAJAJ-AUTO,0,High-Quality Compounders,1.7839
+BAJAJFINSV,3,Distressed or Turnaround,0.4032
+BAJAJHLDNG,4,Emerging Growth,0.8161
+BAJFINANCE,2,Value Cyclicals,1.3712
+BANKBARODA,2,Value Cyclicals,1.9212
+BEL,2,Value Cyclicals,1.4904
+BHARTIARTL,2,Value Cyclicals,1.9358
+BHEL,1,Defensive Dividend Payers,1.2001
+BOSCHLTD,0,High-Quality Compounders,1.249
+BPCL,3,Distressed or Turnaround,2.1024
+BRITANNIA,3,Distressed or Turnaround,0.7152
+CANBK,0,High-Quality Compounders,1.7085
+CHOLAFIN,4,Emerging Growth,2.3851
+CIPLA,4,Emerging Growth,1.1423
+COALINDIA,1,Defensive Dividend Payers,1.6934
+DABUR,2,Value Cyclicals,1.4855
+DIVISLAB,0,High-Quality Compounders,1.7684
+DLF,4,Emerging Growth,2.0325
+DMART,0,High-Quality Compounders,1.6518
+DRREDDY,4,Emerging Growth,1.6087
+EICHERMOT,0,High-Quality Compounders,1.5033
+GAIL,4,Emerging Growth,1.1774
+GODREJCP,1,Defensive Dividend Payers,1.4584
+GRASIM,1,Defensive Dividend Payers,1.3581
+HAL,2,Value Cyclicals,1.2281
+HAVELLS,1,Defensive Dividend Payers,1.9807
+HCLTECH,0,High-Quality Compounders,1.4506
+HDFCBANK,4,Emerging Growth,1.6028
+HDFCLIFE,1,Defensive Dividend Payers,1.6108
+HEROMOTOCO,3,Distressed or Turnaround,1.0135
+HINDALCO,3,Distressed or Turnaround,1.9477
+HINDUNILVR,0,High-Quality Compounders,1.5977
+ICICIBANK,1,Defensive Dividend Payers,1.4968
+ICICIGI,0,High-Quality Compounders,1.3513
+ICICIPRULI,3,Distressed or Turnaround,1.7633
+INDIGO,0,High-Quality Compounders,1.792
+INDUSINDBK,0,High-Quality Compounders,1.7567
+INFY,2,Value Cyclicals,1.3498
+IOC,2,Value Cyclicals,0.9185
+IRCTC,4,Emerging Growth,2.0266
+IRFC,0,High-Quality Compounders,1.0942
+ITC,4,Emerging Growth,2.0342
+JINDALSTEL,3,Distressed or Turnaround,1.685
+JIOFIN,1,Defensive Dividend Payers,1.8785
+JSWENERGY,3,Distressed or Turnaround,2.1348
+JSWSTEEL,4,Emerging Growth,1.6578
+KOTAKBANK,1,Defensive Dividend Payers,1.5552
+LICI,0,High-Quality Compounders,1.8696
+LODHA,2,Value Cyclicals,1.859
+LT,2,Value Cyclicals,0.7493
+LTIM,4,Emerging Growth,1.773
+M&M,1,Defensive Dividend Payers,1.6574
+MARUTI,4,Emerging Growth,1.4294
+MOTHERSON,0,High-Quality Compounders,1.8242
+NAUKRI,4,Emerging Growth,1.4142
+NESTLEIND,4,Emerging Growth,2.6361
+NHPC,4,Emerging Growth,1.8245
+NTPC,4,Emerging Growth,1.7726
+ONGC,4,Emerging Growth,3.1075
+PFC,4,Emerging Growth,1.8711
+PIDILITIND,4,Emerging Growth,2.526
+PNB,4,Emerging Growth,0.7221
+POWERGRID,0,High-Quality Compounders,1.7002
+RECLTD,3,Distressed or Turnaround,1.4291
+RELIANCE,1,Defensive Dividend Payers,1.0684
+SBILIFE,4,Emerging Growth,1.8464
+SBIN,0,High-Quality Compounders,0.8448
+SHREECEM,2,Value Cyclicals,2.1433
+SHRIRAMFIN,3,Distressed or Turnaround,1.7224
+SIEMENS,1,Defensive Dividend Payers,0.6102
+SUNPHARMA,0,High-Quality Compounders,1.5538
+TATACONSUM,2,Value Cyclicals,1.4061
+TATAMOTORS,0,High-Quality Compounders,1.1754
+TATAPOWER,0,High-Quality Compounders,0.7264
+TATASTEEL,3,Distressed or Turnaround,1.3678
+TCS,0,High-Quality Compounders,0.9727
+TECHM,1,Defensive Dividend Payers,2.3104
+TITAN,1,Defensive Dividend Payers,1.3865
+TORNTPHARM,2,Value Cyclicals,2.3596
+TRENT,2,Value Cyclicals,1.5813
+TVSMOTOR,0,High-Quality Compounders,1.6341

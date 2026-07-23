@@ -354,3 +354,32 @@ Day 35: Consolidated Portfolio Summary PDF
 * Objective: Compile an executive-level aggregate portfolio report.
 * Key Tasks: Tabulate company metrics, calculate YoY trend indicators (↑ / ↓ / →), and build a single unified multi-page summary PDF.
 * Output: `reports/portfolio/portfolio_summary.pdf`
+
+
+Day 36 – Quantitative Analytics: Clustering & Machine Learning
+Deliverables: Executed K-Means clustering analysis across the Nifty 100 dataset.
+Outputs Generated:
+- cluster_labels.csv – Assigned company clusters based on core financial ratios.
+- elbow_plot.png – Optimal cluster determination via inertia visualization.
+- Key Focus: Unsupervised grouping of companies based on fundamental metrics (e.g., valuation, growth, debt ratios).
+
+Day 37 – Statistical Analysis & Reporting
+Deliverables: Advanced data profiling and outlier identification.
+Outputs Generated:
+- Correlation Heatmap: Visualizing interactions between key KPIs (ROE, ROCE, P/E, D/E, etc.).
+- Outlier Report: Identifying edge cases and extreme values across financial metrics.
+- Portfolio Statistics: Statistical summary metrics across sectors.
+
+Day 38 to Day 40 – FastAPI REST API Implementation
+Deliverables: Architecture and implementation of a full REST API for serving financial intelligence.
+Key Features:
+- Routers Directory Structure: Modular routing for /companies, /screener, /health, etc.
+- 16 Core Endpoints: Covering company profiles, historical financial statements (P&L, Balance Sheet, Cash Flow), calculated ratios, and PDF tearsheets.
+- Data Sanitization: Handling missing values/NaN serialization to return JSON-compliant null values cleanly.
+
+Day 41 to Day 45 – Testing, Validation & API Integration
+Deliverables: End-to-end testing suite execution and test coverage stabilization.
+Key Milestones:
+- 70/70 Pytest Verification: Full test suite validation across financial ratio logic, CAGR edge cases, cash flow quality classifiers, clustering scripts, Sprint 3 analytics, and FastAPI router endpoints.
+- Environment Optimization: Performance tuning using OMP_NUM_THREADS=1 to optimize execution time and suppress MKL multi-threading warnings.
+- Documentation Updates: README setup instructions updated with architectural catalogs and automated run scripts.
